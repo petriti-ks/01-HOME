@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://picon-13398.kxcdn.com/albania.jpg" group-title="Live: Albania",▬ Albania [AL] ▬
+#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195917/ec817c544079999bd88e3abd0c65784d8f69e511fc9aa6903d58063dcb4db4ca/1100x800_cropped.jpg" group-title="Live: Albania",▬ Albania 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16544
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 
 http://us.bestvideostreaming.is/8702/tracks-v1a1/mono.m3u8
@@ -65,10 +65,38 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7066
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12037
 #EXTINF:-1 tvg-id="" tvg-name="TV Prizreni AL" tvg-logo="https://picon-13398.kxcdn.com/tvprizreni.jpg" group-title="Live: Albania",TV Prizreni 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/43387
+#EXTINF:-1 tvg-id="" tvg-name="Besa TV AL" tvg-logo="https://picon-13398.kxcdn.com/besatv.jpg" group-title="Live: Albania",Besa TV AL
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9395
 #EXTINF:-1 tvg-id="" tvg-name="RTV Zeri Kosoves HD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvzerial.jpg" group-title="Live: Albania",RTV Zeri Kosoves HD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/17183
 #EXTINF:-1 tvg-id="" tvg-name="RTV Fontana FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtvfontanaal.jpg" group-title="Live: Albania",RTV Fontana FHD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/24860
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195869/a06a86551625fd910ad8309c347bffa2b590c98febdbfe39004e084494309b9e/1100x800_cropped.jpg" group-title="Live: Albania",Drita TV
+https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195874/c08e6ca4d6cb369d1e162ccdbbb3512283a1d99c2b064c1c0580250e3065806d/1100x800_cropped.jpg" group-title="Live: Albania",TV Kopliku
+http://167.86.125.240:25461/live/kopliku/12/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195857/d7a44363d57e87d65275219bf80fba005c2bc4547019a7f7bdebab443e708656/1100x800_cropped.jpg" group-title="Live: Albania",Premium Channel
+https://premiummedia.al/stream/premium-channel/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195863/ae19e94a896ef10d6218bc5b53ddf23136bd3dea3c24554a02b6963c8d7041e8/1100x800_cropped.jpg" group-title="Live: Albania",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195865/46a78ab396a8b01fd6aaf5b3b2a6b2779f5d934b12996ac5b51c20ba0ac51c7c/1100x800_cropped.jpg" group-title="Live: Albania",TV Qifteli
+http://us.bestvideostreaming.is/8735/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195867/63adeabf0da4410050acc962ee4b47f46e4454e0333de431f0c5eb17baba7820/1100x800_cropped.jpg" group-title="Live: Albania",Korqa Plus
+http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195876/ffc15432a0c274e2a3cbb5dc3aeef63bd088dad0ee9c877f29c948806cfdf457/1100x800_cropped.jpg" group-title="Live: Albania",MFM Muzike
+http://us.bestvideostreaming.is/7711/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195885/df710856c2411239e7ec1499a93896010762ede9cdf0b4dc3fd9d2617a74b9b2/1100x800_cropped.jpg" group-title="Live: Albania",NRG Muzike
+https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w1502499338.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195886/270217c22cfb6cc6e5b55635a8b1d45a25119f34bd75eb4aceef66281f8e3d74/1100x800_cropped.jpg" group-title="Live: Albania",HIT TV MUZIKE
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri AL" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg" group-title="Live: Albania",TV Sharri 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9368
+#EXTINF:-1 tvg-id="" tvg-name="Top Estrada AL" tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg" group-title="Live: Albania",Top Estrada 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12046
+#EXTINF:-1 tvg-id="" tvg-name="Zico TV AL" tvg-logo="https://picon-13398.kxcdn.com/zicotval.jpg" group-title="Live: Albania",Zico TV 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/23854
+#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg" group-title="Live: Albania",MTV Kosova AL
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12051
 #EXTINF:-1 tvg-id="" tvg-name="X Çifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Live: Albania",X Çifteli HD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22802
 #EXTINF:-1 tvg-id="" tvg-name="X music hits HD AL" tvg-logo="https://picon-13398.kxcdn.com/xmusichitsal.jpg" group-title="Live: Albania",X music hits HD
@@ -85,27 +113,7 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7070
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7070
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://picon-13398.kxcdn.com/folkplus.jpg" group-title="Live: Albania",TV Folklori
-https://5a1178b42cc03.streamlock.net/8144/8144/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195857/d7a44363d57e87d65275219bf80fba005c2bc4547019a7f7bdebab443e708656/1100x800_cropped.jpg" group-title="Live: Albania",Premium Channel
-https://premiummedia.al/stream/premium-channel/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195863/ae19e94a896ef10d6218bc5b53ddf23136bd3dea3c24554a02b6963c8d7041e8/1100x800_cropped.jpg" group-title="Live: Albania",TV Teuta
-http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195865/46a78ab396a8b01fd6aaf5b3b2a6b2779f5d934b12996ac5b51c20ba0ac51c7c/1100x800_cropped.jpg" group-title="Live: Albania",TV Qifteli
-http://us.bestvideostreaming.is/8735/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195867/63adeabf0da4410050acc962ee4b47f46e4454e0333de431f0c5eb17baba7820/1100x800_cropped.jpg" group-title="Live: Albania",Korqa Plus
-http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195869/a06a86551625fd910ad8309c347bffa2b590c98febdbfe39004e084494309b9e/1100x800_cropped.jpg" group-title="Live: Albania",Drita TV
-https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195874/c08e6ca4d6cb369d1e162ccdbbb3512283a1d99c2b064c1c0580250e3065806d/1100x800_cropped.jpg" group-title="Live: Albania",TV Kopliku
-http://167.86.125.240:25461/live/kopliku/12/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195876/ffc15432a0c274e2a3cbb5dc3aeef63bd088dad0ee9c877f29c948806cfdf457/1100x800_cropped.jpg" group-title="Live: Albania",MFM Muzike
-http://us.bestvideostreaming.is/7711/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195885/df710856c2411239e7ec1499a93896010762ede9cdf0b4dc3fd9d2617a74b9b2/1100x800_cropped.jpg" group-title="Live: Albania",NRG Muzike
-https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w1502499338.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://usaupload.com/cache/plugins/filepreviewer/195886/270217c22cfb6cc6e5b55635a8b1d45a25119f34bd75eb4aceef66281f8e3d74/1100x800_cropped.jpg" group-title="Live: Albania",HIT TV MUZIKE
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 
 
 
@@ -115,20 +123,10 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/6260
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/6261
 #EXTINF:-1 tvg-id="" tvg-name="Zjarr TV AL" tvg-logo="https://picon-13398.kxcdn.com/zjarrtv.jpg" group-title="Live: Albania",Zjarr TV 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9372
-#EXTINF:-1 tvg-id="" tvg-name="Besa TV AL" tvg-logo="https://picon-13398.kxcdn.com/besatv.jpg" group-title="Live: Albania",Besa TV AL
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9395
-#EXTINF:-1 tvg-id="" tvg-name="TV Sharri AL" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg" group-title="Live: Albania",TV Sharri 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9368
-#EXTINF:-1 tvg-id="" tvg-name="Top Estrada AL" tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg" group-title="Live: Albania",Top Estrada 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12046
-#EXTINF:-1 tvg-id="" tvg-name="Zico TV AL" tvg-logo="https://picon-13398.kxcdn.com/zicotval.jpg" group-title="Live: Albania",Zico TV 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/23854
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Muzike AL" tvg-logo="https://picon-13398.kxcdn.com/rtshmusical.jpg" group-title="Live: Albania",RTSH Muzike
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/20172
 #EXTINF:-1 tvg-id="" tvg-name="Elrodi Music AL" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg" group-title="Live: Albania",Elrodi Music 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4235
-#EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg" group-title="Live: Albania",MTV Kosova AL
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12051
 #EXTINF:-1 tvg-id="" tvg-name="Q Stupcat AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",Q Stupcat AL
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/19545
 #EXTINF:-1 tvg-id="" tvg-name="X humor HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhumoral.jpg" group-title="Live: Albania",X humor HD AL

@@ -81,46 +81,40 @@ https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/JzTBmgM2/PREMIUM-CHANNEL.jpg" group-title="Live: Albania",Premium Channel
 https://premiummedia.al/stream/premium-channel/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/ryWygHbL/TEUTA-TV.jpg" group-title="Live: Albania",TV Teuta
-http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/MGvqB3RN/TV-QIFTELI.png" group-title="Live: Albania",TV Qifteli
-http://us.bestvideostreaming.is/8735/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/L5BpScKY/KORQA-PLUS.png" group-title="Live: Albania",Korqa Plus
 http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",---- MUZIKE PAKO ----
+http://line.uhd-ott.com:80/56AD4006/571DF7/311670
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/MGvqB3RN/TV-QIFTELI.png" group-title="Live: Albania",TV Qifteli
+http://us.bestvideostreaming.is/8735/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="X Çifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Live: Albania",X Çifteli
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22802
+#EXTINF:-1 tvg-id="" tvg-name="TV Sharri AL" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg" group-title="Live: Albania",TV Sharri 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9368
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/ryWygHbL/TEUTA-TV.jpg" group-title="Live: Albania",TV Teuta
+http://143.244.204.5/tvteuta/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="Live: Albania",Dasma TV 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7076
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/htGBFZCv/MFM.png" group-title="Live: Albania",MFM Muzike
 http://us.bestvideostreaming.is/7711/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/htvHZzj7/NRG.png" group-title="Live: Albania",NRG Muzike
 https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w1502499338.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/QCjzQVwC/HIT-MUSIC.png" group-title="Live: Albania",HIT TV MUZIKE
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Sharri AL" tvg-logo="https://picon-13398.kxcdn.com/tvsharri.jpg" group-title="Live: Albania",TV Sharri 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9368
 #EXTINF:-1 tvg-id="" tvg-name="Top Estrada AL" tvg-logo="https://picon-13398.kxcdn.com/topestrada.jpg" group-title="Live: Albania",Top Estrada 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12046
 #EXTINF:-1 tvg-id="" tvg-name="Zico TV AL" tvg-logo="https://picon-13398.kxcdn.com/zicotval.jpg" group-title="Live: Albania",Zico TV 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/23854
 #EXTINF:-1 tvg-id="" tvg-name="MTV Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/mtvkosova.jpg" group-title="Live: Albania",MTV Kosova
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12051
-#EXTINF:-1 tvg-id="" tvg-name="X Çifteli HD AL" tvg-logo="https://picon-13398.kxcdn.com/ciftelial.jpg" group-title="Live: Albania",X Çifteli
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22802
 #EXTINF:-1 tvg-id="" tvg-name="X music hits HD AL" tvg-logo="https://picon-13398.kxcdn.com/xmusichitsal.jpg" group-title="Live: Albania",X Music Hits
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22800
 #EXTINF:-1 tvg-id="" tvg-name="X popullore HD AL" tvg-logo="https://picon-13398.kxcdn.com/xpopularal.jpg" group-title="Live: Albania",X Popullore 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22801
 #EXTINF:-1 tvg-id="" tvg-name="TV Opoja AL" tvg-logo="https://picon-13398.kxcdn.com/tvopoja.jpg" group-title="Live: Albania",TV Opoja 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16475
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="Live: Albania",Dasma TV 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7076
 #EXTINF:-1 tvg-id="" tvg-name="My Music AL" tvg-logo="https://picon-13398.kxcdn.com/mymusical.jpg" group-title="Live: Albania",My Music
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7070
-#EXTINF:-1 tvg-id="" tvg-name="My Music AL" tvg-logo="https://picon-13398.kxcdn.com/mymusical.jpg" group-title="Live: Albania",My Music
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7070
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://picon-13398.kxcdn.com/folkplus.jpg" group-title="Live: Albania",Folk +
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/6260
 #EXTINF:-1 tvg-id="" tvg-name="BBF Music AL" tvg-logo="https://picon-13398.kxcdn.com/bbfmusic.jpg" group-title="Live: Albania",BBF Music 
@@ -131,7 +125,8 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9372
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/20172
 #EXTINF:-1 tvg-id="" tvg-name="Elrodi Music AL" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg" group-title="Live: Albania",Elrodi Music 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4235
-
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",---- FILMA PAKO ----
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/382000
 #EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg" group-title="Live: Albania",Film Aksion
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820
 #EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg" group-title="Live: Albania",Film Thriller 
@@ -241,7 +236,8 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22791
 #EXTINF:-1 tvg-id="" tvg-name="X filma24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/xfilm24al.jpg" group-title="Live: Albania",X Filma24 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22815
 
-
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",---- DOKUMENTAR PAKO ----
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/382001
 #EXTINF:-1 tvg-id="EXPShkence.al" tvg-name="Explorer Shkencë AL" tvg-logo="https://picon-13398.kxcdn.com/explorershkence.jpg" group-title="Live: Albania",Explorer Shkencë 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4203
 #EXTINF:-1 tvg-id="EXPNatyra.al" tvg-name="Explorer Natyra AL" tvg-logo="https://picon-13398.kxcdn.com/explorernatyra.jpg" group-title="Live: Albania",Explorer Natyra 
@@ -256,7 +252,8 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4213
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4228
 #EXTINF:-1 tvg-id="" tvg-name="Art Doku 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artdoku1sr.jpg" group-title="Live: Albania",Art Doku 1 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28178
-
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",---- SPORT PAKO ----
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/38200011
 #EXTINF:-1 tvg-id="SuperSportNews.al" tvg-name="SuperSport News FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg" group-title="Live: Albania",SuperSport News 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22807
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Live: Albania",SuperSport 1 

@@ -206,12 +206,6 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/15779
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16814
 #EXTINF:-1 tvg-id="" tvg-name="Digi Gold 4 AL" tvg-logo="https://picon-13398.kxcdn.com/filmgold.jpg" group-title="Live: Albania",Digi Gold 4
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16815
-#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino1al.jpg" group-title="Live: Albania",Art Kino 1 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28175
-#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino2al.jpg" group-title="Live: Albania",Art Kino 2 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28176
-#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino3al.jpg" group-title="Live: Albania",Art Kino 3 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28177
 #EXTINF:-1 tvg-id="" tvg-name="Sky Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/skyaksion.jpg" group-title="Live: Albania",Sky Aksion 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9134
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus AL" tvg-logo="https://picon-13398.kxcdn.com/starplusal.jpg" group-title="Live: Albania",Star Plus 
@@ -220,7 +214,7 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8774
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/17168
 #EXTINF:-1 tvg-id="" tvg-name="Stinët AL" tvg-logo="https://picon-13398.kxcdn.com/stinetal.jpg" group-title="Live: Albania",Stinët 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/17171
-#EXTINF:-1 tvg-id="TChannel.al" tvg-name="T HD AL" tvg-logo="https://picon-13398.kxcdn.com/tal.jpg" group-title="Live: Albania",T HD AL
+#EXTINF:-1 tvg-id="TChannel.al" tvg-name="T HD AL" tvg-logo="https://picon-13398.kxcdn.com/tal.jpg" group-title="Live: Albania",T HD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7055
 #EXTINF:-1 tvg-id="TringShqip.al" tvg-name="Tring Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/tringshqip.jpg" group-title="Live: Albania",Tring Shqip
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4219
@@ -253,8 +247,12 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/6088
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4213
 #EXTINF:-1 tvg-id="T-Hist.al" tvg-name="Tring History AL" tvg-logo="https://picon-13398.kxcdn.com/tringhistory.jpg" group-title="Live: Albania",Tring History 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4228
-#EXTINF:-1 tvg-id="" tvg-name="Art Doku 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artdoku1sr.jpg" group-title="Live: Albania",Art Doku 1 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28178
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino1al.jpg" group-title="Live: Albania",Art Kino 1 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28175
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino2al.jpg" group-title="Live: Albania",Art Kino 2 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28176
+#EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino3al.jpg" group-title="Live: Albania",Art Kino 3 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28177
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",---- SPORT PAKO ----
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/38200011
 #EXTINF:-1 tvg-id="SuperSportNews.al" tvg-name="SuperSport News FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg" group-title="Live: Albania",SuperSport News 

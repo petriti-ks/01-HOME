@@ -395,7 +395,7 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/15000
 #EXTINF:-1 tvg-id="AMC.qa" tvg-name="beIN SPORTS 12 HD QA" tvg-logo="https://picon-13398.kxcdn.com/beinsport12.jpg" group-title="Live: Albania",beIN SPORTS 12 HD
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/15001
 
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",- Filma Shqip Online-
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",- Filma Shqip Online -
 https://samiu.gjirafa.com/api/media/gjvideo/yqqzt1/1080/index.m3u8
 #EXTINF:-1,Film "Kolona"
 https://samiu.gjirafa.com/api/media/gjvideo/tkzxg0/index1080.m3u8

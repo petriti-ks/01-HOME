@@ -81,7 +81,7 @@ https://nesertv.live/DRITATV-5879/tracks-v1a1/mono.m3u8
 http://167.86.125.240:25461/live/kopliku/12/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/L5BpScKY/KORQA-PLUS.png" group-title="Live: Albania",Korqa Plus
 http://32.shqiptv.org/korca/albplus/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/JzTBmgM2/PREMIUM-CHANNEL.jpg" group-title="Live: Albania",Premium Channel
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/JzTBmgM2/PREMIUM-CHANNEL.jpg" group-title="Live: Albania",Premium Channel 
 https://premiummedia.al/stream/premium-channel/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",---- MUZIKE PAKO ----

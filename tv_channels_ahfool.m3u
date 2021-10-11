@@ -3,6 +3,18 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="Live: Albania",▬ Albania ▬
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16544
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9457
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel HD 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4178
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/vThbpXHx/VIP1.png" group-title="Live: Albania",Big Brother 1 HD 
+http://cloudcdn.tk:80/evonFOfWdNCv4246/hXBoXC82/89640
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/bryjHbHy/VIP2.png" group-title="Live: Albania",Big Brother 2 HD 
+http://cloudcdn.tk:80/evonFOfWdNCv4246/hXBoXC82/89641
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="Live: Albania",Top News 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4209
+#EXTINF:-1 tvg-id="" tvg-name="Euronews HD AL" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="Live: Albania",Euronews Albania
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/34755
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 
 http://us.bestvideostreaming.is/8702/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="Live: Albania",RTK 1 HD
@@ -31,18 +43,6 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9454
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3800
 #EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="Live: Albania",Klan Plus 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/7074
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9457
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="Live: Albania",Top Channel HD 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4178
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/vThbpXHx/VIP1.png" group-title="Live: Albania",Big Brother 1 HD 
-http://cloudcdn.tk:80/evonFOfWdNCv4246/hXBoXC82/89640
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/bryjHbHy/VIP2.png" group-title="Live: Albania",Big Brother 2 HD 
-http://cloudcdn.tk:80/evonFOfWdNCv4246/hXBoXC82/89641
-#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="Live: Albania",Top News 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4209
-#EXTINF:-1 tvg-id="" tvg-name="Euronews HD AL" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="Live: Albania",Euronews Albania
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/34755
 #EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="Live: Albania",Vizion Plus 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4214
 #EXTINF:-1 tvg-id="" tvg-name="First Channel Kosova AL" tvg-logo="https://picon-13398.kxcdn.com/firstchannel.jpg" group-title="Live: Albania",First Channel Kosova 

@@ -131,6 +131,55 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9372
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/20172
 #EXTINF:-1 tvg-id="" tvg-name="Elrodi Music AL" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg" group-title="Live: Albania",Elrodi Music 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4235
+
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg" group-title="Live: Albania",Film Aksion
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820
+#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg" group-title="Live: Albania",Film Thriller 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4193
+#EXTINF:-1 tvg-id="FilmNje.al" tvg-name="Film Nje HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmnjehd.jpg" group-title="Live: Albania",Film Nje 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3815
+#EXTINF:-1 tvg-id="FilmDy.al" tvg-name="Film Dy HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmdyhd.jpg" group-title="Live: Albania",Film Dy 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3816
+#EXTINF:-1 tvg-id="" tvg-name="Film Hits AL" tvg-logo="https://picon-13398.kxcdn.com/filmhits.jpg" group-title="Live: Albania",Film Hits 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3818
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TELEONE.png" group-title="ALBANIA",[AL] [HD] TELE ONE 1 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311697
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TELEONE.png" group-title="ALBANIA",[AL] [HD] TELE ONE 2 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311698
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TELEONE.png" group-title="ALBANIA",[AL] [HD] TELE ONE 3 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311699
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TELEONE.png" group-title="ALBANIA",[AL] [HD] TELE ONE 4 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311700
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="ALBANIA",[AL] [HD] TV PLISI HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106727
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="ALBANIA",[AL] [HD] TV PLISI ACTION HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106724
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="ALBANIA",[AL] [HD] TV PLISI THRILLER HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106722
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="ALBANIA",[AL] [HD] TV PLISI COMEDY HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106723
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="ALBANIA",[AL] [HD] TV PLISI FANTASY HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106721
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/TVPLISIHORROR.png" group-title="ALBANIA",[AL] [HD] TV PLISI HORROR HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/106720
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTPREMUM1.png" group-title="ALBANIA",[AL] [HD] FIRST PREMIUM 1 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311692
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTACTION.png" group-title="ALBANIA",[AL] [HD] FIRST ACTION HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/117363
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTTHRILLER.png" group-title="ALBANIA",[AL] [HD] FIRST THRILLER HD 
+http://line.uhd-ott.com:80/56AD4006/571DF7/117367
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTCOMEDY.png" group-title="ALBANIA",[AL] [HD] FIRST COMEDY HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/117364
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTFAMILY.png" group-title="ALBANIA",[AL] [HD] FIRST FAMILY HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/117366
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTDRAME.png" group-title="ALBANIA",[AL] [HD] FIRST DRAME HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/117365
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTHORROR.png" group-title="ALBANIA",[AL] [HD] FIRST HORROR HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311694
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTCLASSIC.png" group-title="ALBANIA",[AL] [HD] FIRST CLASSIC HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311693
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/ALBANIA/FIRSTFILMA24.png" group-title="ALBANIA",[AL] [HD] FIRST FILMA 24 HD
+http://line.uhd-ott.com:80/56AD4006/571DF7/311695
 #EXTINF:-1 tvg-id="" tvg-name="X humor HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhumoral.jpg" group-title="Live: Albania",X Humor 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22803
 #EXTINF:-1 tvg-id="" tvg-name="Q Stupcat AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Live: Albania",Q Stupcat 
@@ -165,17 +214,6 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28175
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28176
 #EXTINF:-1 tvg-id="" tvg-name="Art Kino 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artkino3al.jpg" group-title="Live: Albania",Art Kino 3 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28177
-#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg" group-title="Live: Albania",Film Aksion
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820
-#EXTINF:-1 tvg-id="FilmThriller.al" tvg-name="Film Thriller AL" tvg-logo="https://picon-13398.kxcdn.com/filmthriller.jpg" group-title="Live: Albania",Film Thriller 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4193
-#EXTINF:-1 tvg-id="FilmNje.al" tvg-name="Film Nje HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmnjehd.jpg" group-title="Live: Albania",Film Nje 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3815
-#EXTINF:-1 tvg-id="FilmDy.al" tvg-name="Film Dy HD AL" tvg-logo="https://picon-13398.kxcdn.com/filmdyhd.jpg" group-title="Live: Albania",Film Dy 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3816
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits AL" tvg-logo="https://picon-13398.kxcdn.com/filmhits.jpg" group-title="Live: Albania",Film Hits 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3818
-
 #EXTINF:-1 tvg-id="" tvg-name="Sky Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/skyaksion.jpg" group-title="Live: Albania",Sky Aksion 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9134
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus AL" tvg-logo="https://picon-13398.kxcdn.com/starplusal.jpg" group-title="Live: Albania",Star Plus 

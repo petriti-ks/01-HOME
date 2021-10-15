@@ -124,7 +124,7 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9372
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/20172
 #EXTINF:-1 tvg-id="" tvg-name="Elrodi Music AL" tvg-logo="https://picon-13398.kxcdn.com/elrodimusic.jpg" group-title="Muzikë",Elrodi Music 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4235
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Muzikë",---- HUMOR PAKO ----
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Humor",---- HUMOR PAKO ----
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/382000
 #EXTINF:-1 tvg-id="" tvg-name="X humor HD AL" tvg-logo="https://picon-13398.kxcdn.com/xhumoral.jpg" group-title="Humor ",X Humor 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22803
@@ -298,7 +298,7 @@ http://restream.tivivo.cc:25461/irfan/irfan1234/28
 http://restream.tivivo.cc:25461/irfan/irfan1234/135
 #EXTINF:-1 tvg-id="" tvg-name="AL: Sky Max HD" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Humor.png" group-title="Filma",AL: Sky Max HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/138
-#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="ALBANIA",---- SPORT PAKO ----
+#EXTINF:-1 tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_albania.png" group-title="Sport",---- SPORT PAKO ----
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/38200011
 #EXTINF:-1 tvg-id="" tvg-name="AL: Super Sport 1 FHD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="Sport",AL: Super Sport 1 FHD
 http://restream.tivivo.cc:25461/irfan/irfan1234/475
@@ -338,17 +338,17 @@ http://restream.tivivo.cc:25461/irfan/irfan1234/486
 http://restream.tivivo.cc:25461/irfan/irfan1234/487
 #EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 5 HD" tvg-logo="https://tivivo.al/logokanale/kujtesa5.png" group-title="Sport",AL: Kujtesa Sport 5 HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/488
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 1 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 1 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28182
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 2 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 2 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28183
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 3 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 3 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/28184
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 4 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 4 
 http://cloudcdn.tk:80/evonFOfWdNCv4246/hXBoXC82/89864
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 5 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 5 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 5 
 http://cloudcdn.tk:80/evonFOfWdNCv4246/hXBoXC82/89865
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Live: Albania",Art Sport 6 
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/artsportal.jpg" group-title="Sport",Art Sport 6 
 http://cloudcdn.tk:80/evonFOfWdNCv4246/hXBoXC82/89866
 #EXTINF:-1 tvg-id="" tvg-name="CRO: Arena Sport 1 HD" tvg-logo="https://i.postimg.cc/sXHB0hBv/arena1-logo.png" group-title="Sport",CRO: Arena Sport 1 HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/492

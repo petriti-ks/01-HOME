@@ -130,8 +130,7 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/382000
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22803
 #EXTINF:-1 tvg-id="" tvg-name="Q Stupcat AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Humor ",Q Stupcat 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/19545
-#EXTINF:-1 tvg-id="" tvg-name="Q Action HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Humor  ",Q Action 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12047
+
 
 
 
@@ -294,6 +293,8 @@ http://restream.tivivo.cc:25461/irfan/irfan1234/2150
 http://restream.tivivo.cc:25461/irfan/irfan1234/2151
 #EXTINF:-1 tvg-id="" tvg-name="AL: Q Action HD" tvg-logo="https://tivivo.al/logokanale/qaction.png" group-title="Filma",AL: Q Action HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/2152
+#EXTINF:-1 tvg-id="" tvg-name="Q Action HD AL" tvg-logo="https://picon-13398.kxcdn.com/qalbaniaal.jpg" group-title="Filma",Q Action 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12047
 #EXTINF:-1 tvg-id="" tvg-name="AL: Q Thriller HD" tvg-logo="https://tivivo.al/logokanale/qthriller.png" group-title="Filma",AL: Q Thriller HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/2153
 #EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Film HD" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png" group-title="Filma",AL: RTSH Film HD

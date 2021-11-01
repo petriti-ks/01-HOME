@@ -141,6 +141,8 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/12047
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820001
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma",AL: Film Aksion HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/49
+#EXTINF:-1 tvg-id="FilmAksion.al" tvg-name="Film Aksion AL" tvg-logo="https://picon-13398.kxcdn.com/filmaksion.jpg" group-title="Filma",Film Aksion 
+http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/3820
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" group-title="Filma",AL: Film Thriller HD
 http://restream.tivivo.cc:25461/irfan/irfan1234/55
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Një HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" group-title="Filma",AL: Film Një HD

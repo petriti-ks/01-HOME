@@ -8,9 +8,9 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4178
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/9457
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/vThbpXHx/VIP1.png" group-title="TV Kombëtare",Big Brother 1 HD 
-http://cloudcdn.tk:80/oENm6mZacY320/nhbAOm193/89640
+http://us.bestvideostreaming.is/8803/index.m3u8
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/bryjHbHy/VIP2.png" group-title="TV Kombëtare",Big Brother 2 HD 
-http://cloudcdn.tk:80/oENm6mZacY320/nhbAOm193/89641
+http://us.bestvideostreaming.is/8804/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="TV Kombëtare",Top News 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4209
 #EXTINF:-1 tvg-id="" tvg-name="Euronews HD AL" tvg-logo="https://picon-13398.kxcdn.com/euronews.jpg" group-title="TV Kombëtare",Euronews Albania
@@ -313,16 +313,18 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/38200011
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
 #EXTINF:-1 tvg-id="SuperSportNews.al" tvg-name="SuperSport News FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersportnewsal.jpg" group-title="Sport",SuperSport News FHD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22807
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 HD AL
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4198
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 
+http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 FHD AL
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22808
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 HD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4199
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 
+http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Sport",SuperSport 3 FHD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22809
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Sport",SuperSport 3 HD 
-http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/4200
 #EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Sport",SuperSport 4 FHD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/22810
 #EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Sport",SuperSport 4 HD 
@@ -337,6 +339,8 @@ http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/15635
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8077
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Sport",Tring Sport 1 HD
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8078
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Sport",Tring Sport 1 
+http://95.107.132.106/out/u/683_2.m3u8
 #EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="Sport",Tring Sport 2 HD 
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/8079
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Sport",Tring Sport 3 HD 

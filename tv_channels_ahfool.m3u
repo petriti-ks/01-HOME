@@ -67,6 +67,13 @@ http://us.bestvideostreaming.is/8754/index.m3u8
 http://us.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" group-title="Filma",AL: T HD
 http://us.bestvideostreaming.is/8746/index.m3u8
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/q7F1sG7d/RTV-ISLAM.jpg" group-title="Sport",Rtv Islam HD
+http://us.bestvideostreaming.is/8714/index.m3u8
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Pendimi" tvg-logo="https://i.postimg.cc/PrH2QJdN/RTV-PENDIMI.jpg" group-title="Sport",Rtv Pendimi HD
+http://us.bestvideostreaming.is/8786/index.m3u8
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Peace TV" tvg-logo="https://i.postimg.cc/CKSPMK6W/PEACE-TV.jpg" group-title="Sport",Peace TV HD
+http://us.bestvideostreaming.is/8792/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Natyra.png" group-title="Filma",Exp Natyra
 http://us.bestvideostreaming.is/8739/index.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Shkence.png" group-title="Filma",Exp Shkencë
@@ -91,12 +98,6 @@ http://95.107.132.106/out/u/683_2.m3u8
 http://95.107.132.106/out/u/698_2.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Sport",Tring Sport 3 HD 
 http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Peace TV" tvg-logo="https://i.postimg.cc/CKSPMK6W/PEACE-TV.jpg" group-title="Sport",Peace TV HD
-http://us.bestvideostreaming.is/8792/index.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/q7F1sG7d/RTV-ISLAM.jpg" group-title="Sport",Rtv Islam HD
-http://us.bestvideostreaming.is/8714/index.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Pendimi" tvg-logo="https://i.postimg.cc/PrH2QJdN/RTV-PENDIMI.jpg" group-title="Sport",Rtv Pendimi HD
-http://us.bestvideostreaming.is/8786/index.m3u8
 
 
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="1" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",1

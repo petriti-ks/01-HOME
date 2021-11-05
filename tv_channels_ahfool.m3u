@@ -11,208 +11,105 @@ http://us.bestvideostreaming.is/8804/index.m3u8
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel  HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="TV Kombëtare",Top News 
+http://93.157.62.180/TopNews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="TV Kombëtare",RTK 1 HD
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="TV Kombëtare",RTV 21
+http://us.bestvideostreaming.is/8748/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="TV Kombëtare",KTV Kohavision 
+http://us.bestvideostreaming.is/8705/index.m3u8
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="TV Kombëtare",Klan Kosova
+http://us.bestvideostreaming.is/8706/index.m3u8
 #EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klan HD 
 http://us.bestvideostreaming.is/8704/index.m3u8
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="TV Kombëtare",Klan Plus 
+http://us.bestvideostreaming.is/8720/index.m3u8
 #EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="TV Kombëtare",Vizion Plus 
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="TV Kombëtare",RTSH 
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="TV Kombëtare",Top News 
-http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="TV Kombëtare",Ora News 
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="TV Kombëtare",News 24 
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="TV Kombëtare",ABC News 
 http://us.bestvideostreaming.is/10023/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Rtv21 " tvg-logo="" group-title="Channel",Rtv21 
-http://us.bestvideostreaming.is/8748/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtk 1 HD" tvg-logo="" group-title="Channel",Rtk 1 HD
-http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Koha Vision" tvg-logo="" group-title="Channel",Koha Vision
-http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Syri TV" tvg-logo="" group-title="Channel",Syri TV
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/86.ts
-#EXTINF:-1 tvg-id="" tvg-name="Klan Kosova" tvg-logo="" group-title="Channel",Klan Kosova
-http://us.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Klan Plus" tvg-logo="" group-title="Channel",Klan Plus
-http://us.bestvideostreaming.is/8720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="21 Popullore" tvg-logo="" group-title="Channel",21 Popullore
-http://us.bestvideostreaming.is/8749/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bbf" tvg-logo="" group-title="Channel",Bbf
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/112.ts
-#EXTINF:-1 tvg-id="" tvg-name="Folk Plus" tvg-logo="" group-title="Channel",Folk Plus
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/87.ts
-#EXTINF:-1 tvg-id="" tvg-name="Elrodi" tvg-logo="" group-title="Channel",Elrodi
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/88.ts
-#EXTINF:-1 tvg-id="" tvg-name="Turbo Channel" tvg-logo="" group-title="Channel",Turbo Channel
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/169.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtv 4 Muzike" tvg-logo="" group-title="Channel",Rtv 4 Muzike
-http://rtvarberia4.flashmediacast.com:1935/RtvArberia4/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Click TV" tvg-logo="" group-title="Channel",Click TV
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/90.ts
-#EXTINF:-1 tvg-id="" tvg-name="Syri Blu" tvg-logo="" group-title="Channel",Syri Blu
-http://live.syri.tv:6969/live/syriblue/hd/23.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV Opoja" tvg-logo="" group-title="Channel",TV Opoja
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV" tvg-logo="" group-title="Channel",Dasma TV
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="Muzikë",Dasma TV 
 http://us.bestvideostreaming.is/8793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rrokum TV" tvg-logo="" group-title="Channel",Rrokum TV
-http://us.bestvideostreaming.is/8849/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Qifteli" tvg-logo="" group-title="Channel",Qifteli
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/MGvqB3RN/TV-QIFTELI.png" group-title="Muzikë",TV Qifteli
 http://us.bestvideostreaming.is/8735/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Tring" tvg-logo="" group-title="Channel",Tring Tring
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/78.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Kids" tvg-logo="" group-title="Channel",Tring Kids
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/79.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bang Bang " tvg-logo="" group-title="Channel",Bang Bang 
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="http://albepg.com/tvlogi/Bang%20Bang.png" group-title="Filma per femijë",Bang Bang 
 http://us.bestvideostreaming.is/8737/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Cufo" tvg-logo="" group-title="Channel",Cufo
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="http://albepg.com/tvlogi/Cufo%20TV.png" group-title="Filma per femijë",Cufo
 http://us.bestvideostreaming.is/8738/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Tip TV" tvg-logo="" group-title="Channel",Tip TV
-http://us.bestvideostreaming.is/8776/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Lale" tvg-logo="" group-title="Channel",Lale
-http://stream.atr.ua/lale/live/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cocuk" tvg-logo="" group-title="Channel",Cocuk
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://icons.iconarchive.com/icons/martin-berube/people/256/child-icon.png" group-title="Filma per femijë",Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="" group-title="Channel",Boomerang
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/151.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Femije" tvg-logo="" group-title="Channel",Rtsh Femije
-http://79.106.48.2:4578/live/rtsh_femije_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Family" tvg-logo="" group-title="Channel",Film Family
-http://us.bestvideostreaming.is/8754/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Aksion" tvg-logo="" group-title="Channel",Film Aksion
+
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma", Film Aksion HD
 http://us.bestvideostreaming.is/8742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Autor" tvg-logo="" group-title="Channel",Film Autor
-http://us.bestvideostreaming.is/8753/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Nje " tvg-logo="" group-title="Channel",Film Nje 
-http://us.bestvideostreaming.is/8730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Dy" tvg-logo="" group-title="Channel",Film Dy
-http://us.bestvideostreaming.is/8731/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Dram" tvg-logo="" group-title="Channel",Film Dram
-http://us.bestvideostreaming.is/8727/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Channel",Film Hits
-http://us.bestvideostreaming.is/8755/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Hits" tvg-logo="" group-title="Channel",Film Hits
-http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/3530?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Film Komedi " tvg-logo="" group-title="Channel",Film Komedi 
-http://us.bestvideostreaming.is/8752/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Stine" tvg-logo="" group-title="Channel",Film Stine
-http://us.bestvideostreaming.is/8751/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Film Thriller" tvg-logo="" group-title="Channel",Film Thriller
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" group-title="Filma",Film Thriller HD
 http://us.bestvideostreaming.is/8757/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Euro Film" tvg-logo="" group-title="Channel",Euro Film
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Një HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" group-title="Filma",Film Një HD
+http://us.bestvideostreaming.is/8730/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png" group-title="Filma", Film Dy HD
+http://us.bestvideostreaming.is/8731/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" group-title="Filma", Film Hits HD
+http://us.bestvideostreaming.is/8755/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" group-title="Filma",Film Komedi HD
+http://us.bestvideostreaming.is/8752/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" group-title="Filma",Film Family HD
+http://us.bestvideostreaming.is/8754/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/EUROFILM.png" group-title="Filma",Euro Film HD
 http://us.bestvideostreaming.is/8758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="T HD" tvg-logo="" group-title="Channel",T HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" group-title="Filma",AL: T HD
 http://us.bestvideostreaming.is/8746/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Kanal D Drama" tvg-logo="" group-title="Channel",Kanal D Drama
-http://us.bestvideostreaming.is/6263/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Exp Natyr" tvg-logo="" group-title="Channel",Exp Natyr
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Natyra.png" group-title="Filma",Exp Natyra
 http://us.bestvideostreaming.is/8739/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Exp Shkence" tvg-logo="" group-title="Channel",Exp Shkence
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Shkence.png" group-title="Filma",Exp Shkencë
 http://us.bestvideostreaming.is/8726/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Exp Histori" tvg-logo="" group-title="Channel",Exp Histori
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/k5bph88P/histori.png" group-title="Filma",Exp Histori
 http://us.bestvideostreaming.is/8729/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geographic " tvg-logo="" group-title="Channel",Nat Geographic 
-http://us.bestvideostreaming.is/8725/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Tring World" tvg-logo="" group-title="Channel",Tring World
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/66.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Super" tvg-logo="" group-title="Channel",Tring Super
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/71.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Action" tvg-logo="" group-title="Channel",Tring Action
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/69.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Shqip" tvg-logo="" group-title="Channel",Tring Shqip
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/74.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Planet" tvg-logo="" group-title="Channel",Tring Planet
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/67.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Life" tvg-logo="" group-title="Channel",Tring Life
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/73.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring International" tvg-logo="" group-title="Channel",Tring International
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/64.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring History" tvg-logo="" group-title="Channel",Tring History
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/68.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Fantasy" tvg-logo="" group-title="Channel",Tring Fantasy
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/72.ts
-#EXTINF:-1 tvg-id="" tvg-name="Tring Comedy" tvg-logo="" group-title="Channel",Tring Comedy
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/70.ts
-#EXTINF:-1 tvg-id="" tvg-name="Smile" tvg-logo="" group-title="Channel",Smile
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/96.ts
-#EXTINF:-1 tvg-id="" tvg-name="Muse" tvg-logo="" group-title="Channel",Muse
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/80.ts
-#EXTINF:-1 tvg-id="" tvg-name="Living HD" tvg-logo="" group-title="Channel",Living HD
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/56.ts
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 1 HD" tvg-logo="" group-title="Channel",Supersport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://seeklogo.com/images/S/Sporttv-logo-C65D231D71-seeklogo.com.gif" group-title="Sport",SPORT HD
+http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 HD
 http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 2 HD" tvg-logo="" group-title="Channel",Supersport 2 HD
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 HD 
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Super Sport 2" tvg-logo="" group-title="Channel",Super Sport 2
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/170469
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 3 HD" tvg-logo="" group-title="Channel",Supersport 3 HD
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Sport",SuperSport 3 HD 
 http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 4" tvg-logo="" group-title="Channel",Supersport 4
+#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport4hd.jpg" group-title="Sport",SuperSport 4 HD 
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Supersport 5" tvg-logo="" group-title="Channel",Supersport 5
+#EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport5hd.jpg" group-title="Sport",SuperSport 5 HD
 http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1 HD" tvg-logo="" group-title="Channel",Tring Sport 1 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1001
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 1" tvg-logo="" group-title="Channel",Tring Sport 1
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport1hd.jpg" group-title="Sport",Tring Sport 1 HD
 http://95.107.132.106/out/u/683_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 2 HD" tvg-logo="" group-title="Channel",Tring Sport 2 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1002
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3 HD" tvg-logo="" group-title="Channel",Tring Sport 3 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1003
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 3" tvg-logo="" group-title="Channel",Tring Sport 3
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport2hd.jpg" group-title="Sport",Tring Sport 2 HD 
+http://95.107.132.106/out/u/698_2.m3u8
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Sport",Tring Sport 3 HD 
 http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tring Sport 4 HD" tvg-logo="" group-title="Channel",Tring Sport 4 HD
-http://api.iptveditor.com/ForumiIPTV_SHQIP/Kanale-shqiptare/1004
-#EXTINF:-1 tvg-id="" tvg-name="Jolly HD" tvg-logo="" group-title="Channel",Jolly HD
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/75.ts
-#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="" group-title="Channel",Peace TV
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Peace TV" tvg-logo="https://i.postimg.cc/CKSPMK6W/PEACE-TV.jpg" group-title="Sport",Peace TV HD
 http://us.bestvideostreaming.is/8792/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Islam" tvg-logo="" group-title="Channel",Rtv Islam
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/q7F1sG7d/RTV-ISLAM.jpg" group-title="Sport",Rtv Islam HD
 http://us.bestvideostreaming.is/8714/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtv Pendimi" tvg-logo="" group-title="Channel",Rtv Pendimi
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Pendimi" tvg-logo="https://i.postimg.cc/PrH2QJdN/RTV-PENDIMI.jpg" group-title="Sport",Rtv Pendimi HD
 http://us.bestvideostreaming.is/8786/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Kukesi" tvg-logo="" group-title="Channel",Rtsh Kukesi
-http://79.106.48.2:4578/live/rtsh_kukesi_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Shqip" tvg-logo="" group-title="Channel",Rtsh Shqip
-http://79.106.48.2:4578/live/rtsh_shqip_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cnn" tvg-logo="" group-title="Channel",Cnn
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/134.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bbc" tvg-logo="" group-title="Channel",Bbc
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/132.ts
-#EXTINF:-1 tvg-id="" tvg-name="Deutsche Welle" tvg-logo="" group-title="Channel",Deutsche Welle
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/39.ts
-#EXTINF:-1 tvg-id="" tvg-name="Zdf" tvg-logo="" group-title="Channel",Zdf
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/38.ts
-#EXTINF:-1 tvg-id="" tvg-name="Trt World" tvg-logo="" group-title="Channel",Trt World
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/25.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rai Uno" tvg-logo="" group-title="Channel",Rai Uno
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/105.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Rai Due" tvg-logo="" group-title="Channel",Rai Due
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/104.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rai Tre" tvg-logo="" group-title="Channel",Rai Tre
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/50.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mediaset Italia" tvg-logo="" group-title="Channel",Mediaset Italia
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/51.ts
-#EXTINF:-1 tvg-id="" tvg-name="Canale 5" tvg-logo="" group-title="Channel",Canale 5
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/103.ts
 
-#EXTINF:-1,1 xx
+
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="1" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",1
 http://185.226.88.3:1036/live/backup/backup/7.m3u8
-#EXTINF:-1,2 xx
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="2" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",2
 http://185.226.88.3:1036/live/backup/backup/8.m3u8
-#EXTINF:-1,3 xx
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="3" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",3
 http://185.226.88.3:1036/live/backup/backup/9.m3u8
-#EXTINF:-1 group-title="ALB XXX 🔞" tvg-logo="https://i.postimg.cc/yd0M6mN8/LOGO2-2.png",xxx 1
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="4" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",4
 https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-
-#EXTINF:-1,xxx 3
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="5" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",5
 https://www.filmon.com/vr-streams/6158.high/playlist.m3u8
-
-
-#EXTINF:-1,xxx extasy
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="6" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",6
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1,xxx superone
-http://185.96.176.139:8080/superone/index.m3u8
+
 

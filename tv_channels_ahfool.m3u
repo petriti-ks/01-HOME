@@ -3,40 +3,28 @@
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16544
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.imgur.com/8uq8Tab.png" group-title="TV Kombëtare",INFO KABLLOR 📺👌
 https://i.top4top.io/m_2111zgb5t0.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 1" tvg-logo="" group-title="Channel",Big Brother 1
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/vThbpXHx/VIP1.png" group-title="TV Kombëtare",Big Brother 1 HD 
 http://us.bestvideostreaming.is/8803/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Big Brother 2" tvg-logo="" group-title="Channel",Big Brother 2
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/bryjHbHy/VIP2.png" group-title="TV Kombëtare",Big Brother 2 HD 
 http://us.bestvideostreaming.is/8804/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel" tvg-logo="" group-title="Channel",Top Channel
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel 
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1 tvg-id="" tvg-name="Top Channel HD" tvg-logo="" group-title="Channel",Top Channel HD
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel  HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Klan TV" tvg-logo="" group-title="Channel",Klan TV
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klan HD 
 http://us.bestvideostreaming.is/8704/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Vizion Plus" tvg-logo="" group-title="Channel",Vizion Plus
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="TV Kombëtare",Vizion Plus 
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
-#EXTINF:-1 tvg-id="" tvg-name="Rtsh Sat" tvg-logo="" group-title="Channel",Rtsh Sat
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="TV Kombëtare",RTSH 
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top News" tvg-logo="" group-title="Channel",Top News
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="TV Kombëtare",Top News 
 http://93.157.62.180/TopNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ora News" tvg-logo="" group-title="Channel",Ora News
+#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="TV Kombëtare",Ora News 
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="Channel",News 24
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="TV Kombëtare",News 24 
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abc News " tvg-logo="" group-title="Channel",Abc News 
+#EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="TV Kombëtare",ABC News 
 http://us.bestvideostreaming.is/10023/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Fax News" tvg-logo="" group-title="Channel",Fax News
-http://us.bestvideostreaming.is/10022/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Report TV" tvg-logo="" group-title="Channel",Report TV
-http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/165.ts
-#EXTINF:-1 tvg-id="" tvg-name="Mcn TV (Tema)" tvg-logo="" group-title="Channel",Mcn TV (Tema)
-http://edge01eu.ekranet.com/mcntv/index.m3u8?e=7c3b037ef433315a8611ff1f46e4a6ea&c=mcntv&medium=websocket
-#EXTINF:-1 tvg-id="" tvg-name="Euronews Albania" tvg-logo="" group-title="Channel",Euronews Albania
-http://185.226.88.3:1036/live/backup/backup/164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Scan 24" tvg-logo="" group-title="Channel",Scan 24
-http://edge01eu.ekranet.com/scantv/index.m3u8?e=e67e120a94bf96b8b9e2e8fa28be8808&c=scantv&medium=websocket
-#EXTINF:-1 tvg-id="" tvg-name="Alsat M" tvg-logo="" group-title="Channel",Alsat M
-http://us.bestvideostreaming.is/8713/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtv21 " tvg-logo="" group-title="Channel",Rtv21 
 http://us.bestvideostreaming.is/8748/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rtk 1 HD" tvg-logo="" group-title="Channel",Rtk 1 HD

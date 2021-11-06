@@ -73,7 +73,6 @@ http://us.bestvideostreaming.is/8714/index.m3u8
 http://us.bestvideostreaming.is/8786/index.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Peace TV" tvg-logo="https://i.postimg.cc/CKSPMK6W/PEACE-TV.jpg" group-title="Sport",Peace TV HD
 http://us.bestvideostreaming.is/8792/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Natyra.png" group-title="Filma",Exp Natyra
 http://us.bestvideostreaming.is/8739/index.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Shkence.png" group-title="Filma",Exp Shkencë
@@ -84,7 +83,8 @@ http://us.bestvideostreaming.is/8729/index.m3u8%20
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 HD
 http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
-#EXTINF:-1,SuperSport 2 FHD AL
+
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 FHD
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/22808
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 HD 
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN

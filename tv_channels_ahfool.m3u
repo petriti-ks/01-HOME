@@ -84,6 +84,8 @@ http://us.bestvideostreaming.is/8729/index.m3u8%20
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 HD
 http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
+#EXTINF:-1,SuperSport 2 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/22808
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 HD 
 http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport3hd.jpg" group-title="Sport",SuperSport 3 HD 

@@ -101,6 +101,54 @@ http://95.107.132.106/out/u/698_2.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://picon-13398.kxcdn.com/tringsport3hd.jpg" group-title="Sport",Tring Sport 3 HD 
 http://95.107.132.106/out/u/699_2.m3u8
 
+#EXTINF:-1,SuperSport News FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/22807
+#EXTINF:-1,SuperSport 1 HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4198
+#EXTINF:-1,SuperSport 2 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/22808
+#EXTINF:-1,SuperSport 2 HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4199
+#EXTINF:-1,SuperSport 3 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/22809
+#EXTINF:-1,SuperSport 3 HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4200
+#EXTINF:-1,SuperSport 4 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/22810
+#EXTINF:-1,SuperSport 4 HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4201
+#EXTINF:-1,SuperSport 5 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/22811
+#EXTINF:-1,SuperSport 5 HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/9373
+#EXTINF:-1,RTSH Sport AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/15635
+#EXTINF:-1,Tring Sport News HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/8077
+#EXTINF:-1,Tring Sport 1 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/8078
+#EXTINF:-1,Tring Sport 2 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/8079
+#EXTINF:-1,Tring Sport 3 HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/8080
+#EXTINF:-1,Tring Sport 4 HD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/8081
+#EXTINF:-1,K-Sport 1 AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/9150
+#EXTINF:-1,K-Sport 2 AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/9151
+#EXTINF:-1,K-Sport 3 AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/9152
+#EXTINF:-1,K-Sport 4 AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/9153
+#EXTINF:-1,Art Sport 1 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/28182
+#EXTINF:-1,Art Sport 2 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/28183
+#EXTINF:-1,Art Kino 2 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/28176
+#EXTINF:-1,Art Sport 3 FHD AL
+http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/28184
 
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="1" tvg-logo="https://i.postimg.cc/QCf97fXQ/1.jpg" group-title="Sport",1
 http://185.226.88.3:1036/live/backup/backup/7.m3u8

@@ -18,71 +18,71 @@ http://93.157.62.180/TopNews/index.m3u8
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="●★TV Kombëtare●★",RTV 21
 http://us.bestvideostreaming.is/8748/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="TV Kombëtare",KTV Kohavision 
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="●★TV Kombëtare●★",KTV Kohavision 
 http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="TV Kombëtare",Klan Kosova
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="●★TV Kombëtare●★",Klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="TV Kombëtare",Klan HD 
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="●★TV Kombëtare●★",Klan HD 
 http://us.bestvideostreaming.is/8704/index.m3u8
-#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="TV Kombëtare",Klan Plus 
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="●★TV Kombëtare●★",Klan Plus 
 http://us.bestvideostreaming.is/8720/index.m3u8
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="TV Kombëtare",Vizion Plus 
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="●★TV Kombëtare●★",Vizion Plus 
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="TV Kombëtare",RTSH 
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="●★TV Kombëtare●★",RTSH 
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="TV Kombëtare",Ora News 
+#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="●★TV Kombëtare●★",Ora News 
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="TV Kombëtare",News 24 
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="●★TV Kombëtare●★",News 24 
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="TV Kombëtare",ABC News 
+#EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="●★TV Kombëtare●★",ABC News 
 http://us.bestvideostreaming.is/10023/index.m3u8%20
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="•●★Muzikë•●★",Dasma TV 
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="●★Muzikë●★",Dasma TV 
 http://us.bestvideostreaming.is/8793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/MGvqB3RN/TV-QIFTELI.png" group-title="Muzikë",TV Qifteli
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/MGvqB3RN/TV-QIFTELI.png" group-title="●★Muzikë●★",TV Qifteli
 http://us.bestvideostreaming.is/8735/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="http://albepg.com/tvlogi/Bang%20Bang.png" group-title="Filma per femijë",Bang Bang 
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="http://albepg.com/tvlogi/Bang%20Bang.png" group-title="●★Filma per femijë●★",Bang Bang 
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/7062
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="http://albepg.com/tvlogi/Cufo%20TV.png" group-title="Filma per femijë",Cufo
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="http://albepg.com/tvlogi/Cufo%20TV.png" group-title="●★Filma per femijë●★",Cufo
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4208
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://icons.iconarchive.com/icons/martin-berube/people/256/child-icon.png" group-title="Filma per femijë",Cocuk
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://icons.iconarchive.com/icons/martin-berube/people/256/child-icon.png" group-title="●★Filma per femijë●★",Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="Filma", Film Aksion HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png" group-title="●★Filma●★", Film Aksion HD
 http://us.bestvideostreaming.is/8742/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" group-title="Filma",Film Thriller HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Thriller.png" group-title="●★Filma●★",Film Thriller HD
 http://us.bestvideostreaming.is/8757/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Një HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" group-title="Filma",Film Një HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Një HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Nje%20HD.png" group-title="●★Filma●★",Film Një HD
 http://us.bestvideostreaming.is/8730/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png" group-title="Filma", Film Dy HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Dy%20HD.png" group-title="●★Filma●★", Film Dy HD
 http://us.bestvideostreaming.is/8731/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" group-title="Filma", Film Hits HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png" group-title="●★Filma●★", Film Hits HD
 http://us.bestvideostreaming.is/8755/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" group-title="Filma",Film Komedi HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" group-title="●★Filma●★",Film Komedi HD
 http://us.bestvideostreaming.is/8752/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" group-title="Filma",Film Family HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/Film%20Komedi.png" group-title="●★Filma●★",Film Family HD
 http://us.bestvideostreaming.is/8754/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/EUROFILM.png" group-title="Filma",Euro Film HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="http://albepg.com/tvlogi/EUROFILM.png" group-title="●★Filma●★",Euro Film HD
 http://us.bestvideostreaming.is/8758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" group-title="Filma",AL: T HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png" group-title="●★Filma●★",AL: T HD
 http://us.bestvideostreaming.is/8746/index.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/q7F1sG7d/RTV-ISLAM.jpg" group-title="Sport",Rtv Islam HD
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/q7F1sG7d/RTV-ISLAM.jpg" group-title="●★Feja Islame●★",Rtv Islam HD
 http://us.bestvideostreaming.is/8714/index.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Pendimi" tvg-logo="https://i.postimg.cc/PrH2QJdN/RTV-PENDIMI.jpg" group-title="Sport",Rtv Pendimi HD
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Pendimi" tvg-logo="https://i.postimg.cc/PrH2QJdN/RTV-PENDIMI.jpg" group-title="●★Feja Islame●★",Rtv Pendimi HD
 http://us.bestvideostreaming.is/8786/index.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Peace TV" tvg-logo="https://i.postimg.cc/CKSPMK6W/PEACE-TV.jpg" group-title="Sport",Peace TV HD
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Peace TV" tvg-logo="https://i.postimg.cc/CKSPMK6W/PEACE-TV.jpg" group-title="●★Feja Islame●★",Peace TV HD
 http://us.bestvideostreaming.is/8792/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Natyra.png" group-title="Filma",Exp Natyra
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Natyra.png" group-title="●★Dokumentare●★",Exp Natyra
 http://us.bestvideostreaming.is/8739/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Shkence.png" group-title="Filma",Exp Shkencë
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="http://albepg.com/tvlogi/EXPLORER%20Shkence.png" group-title="●★Dokumentare●★",Exp Shkencë
 http://us.bestvideostreaming.is/8726/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/k5bph88P/histori.png" group-title="Filma",Exp Histori
+#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/k5bph88P/histori.png" group-title="●★Dokumentare●★",Exp Histori
 http://us.bestvideostreaming.is/8729/index.m3u8%20
-#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://seeklogo.com/images/S/Sporttv-logo-C65D231D71-seeklogo.com.gif" group-title="Sport",SPORT HD
+#EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://seeklogo.com/images/S/Sporttv-logo-C65D231D71-seeklogo.com.gif" group-title="●★SPORT HD●★",SPORT HD
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="Sport",SuperSport 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport1hd.jpg" group-title="●★SPORT HD●★",SuperSport 1 HD
 http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
 
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://picon-13398.kxcdn.com/supersport2hd.jpg" group-title="Sport",SuperSport 2 FHD

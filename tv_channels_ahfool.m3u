@@ -1,22 +1,22 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
-#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="•●★TV Kombëtare•●★",•●★ TV Kombëtare ★●•
+#EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="●★TV Kombëtare●★",TV Kombëtare 
 http://opplex.tv:8080/345/345/201779
 http://85.203.33.88:80/ahfoL8E62/dPb1QZ75/16544
-#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.imgur.com/8uq8Tab.png" group-title="TV Kombëtare",INFO KABLLOR 📺👌
+#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.imgur.com/8uq8Tab.png" group-title="●★TV Kombëtare●★",INFO KABLLOR 📺👌
 https://i.top4top.io/m_2111zgb5t0.mp4
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/vThbpXHx/VIP1.png" group-title="TV Kombëtare",Big Brother 1 HD 
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/vThbpXHx/VIP1.png" group-title="●★TV Kombëtare●★",Big Brother 1 HD 
 http://us.bestvideostreaming.is/8803/index.m3u8
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/bryjHbHy/VIP2.png" group-title="TV Kombëtare",Big Brother 2 HD 
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/bryjHbHy/VIP2.png" group-title="●★TV Kombëtare●★",Big Brother 2 HD 
 http://us.bestvideostreaming.is/8804/index.m3u8
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel 
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="●★TV Kombëtare●★",Top Channel 
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="TV Kombëtare",Top Channel  HD
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="●★TV Kombëtare●★",Top Channel  HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="TV Kombëtare",Top News 
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="●★TV Kombëtare●★",Top News 
 http://93.157.62.180/TopNews/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="TV Kombëtare",RTK 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtk1al.jpg" group-title="●★TV Kombëtare●★",RTK 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="TV Kombëtare",RTV 21
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="●★TV Kombëtare●★",RTV 21
 http://us.bestvideostreaming.is/8748/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="TV Kombëtare",KTV Kohavision 
 http://us.bestvideostreaming.is/8705/index.m3u8

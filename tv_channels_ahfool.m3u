@@ -91,6 +91,8 @@ http://us.bestvideostreaming.is/8726/index.m3u8%20
 http://us.bestvideostreaming.is/8729/index.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="Art Sport 6 FHD AL" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★SPORT HD●★",●★SPORT HD●★
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/Gmbg2MYQ/RTSH-sport.png" group-title="●★SPORT HD●★",RTSH Sport1 HD
+http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/KYzd4xRZ/supersport1hd.png" group-title="●★SPORT HD●★",SuperSport 1 
 http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/KYzd4xRZ/supersport1hd.png" group-title="●★SPORT HD●★",SuperSport 1 HD

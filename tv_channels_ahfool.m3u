@@ -135,3 +135,29 @@ https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/15bgv31d/1P.png" group-title="●★TV●★",6
 http://185.96.176.139:8080/superone/index.m3u8
+
+
+#EXTINF:-1,Tring Action
+http://tring.mediazonehd.com:8880/tringactionsRQbXDJb9wacRvXLe2cz/video.m3u8
+#EXTINF:-1,Klan TV
+http://tring.mediazonehd.com:8880/klansRQbXDJb9wacRvXLe2cz/video.m3u8
+#EXTINF:-1,Vizion Plus
+http://tring.mediazonehd.com:8880/vizionplussRQbXDJb9wacRvXLe2cz/video.m3u8
+#EXTINF:-1,TOP CHANNEL
+https://bit.ly/2MwwCUz
+#EXTINF:-1,TOP CHANNEL
+https://bit.ly/3txq1tB
+#EXTINF:-1,ALSAT M
+https://bit.ly/2MVDzyi
+#EXTINF:-1,FILM AKSION HD
+https://bit.ly/36Ik7vF
+#EXTINF:-1,FILM HITS HD
+https://bit.ly/3tqJBrv
+#EXTINF:-1,FILM KOMEDI
+https://bit.ly/3rqdx4X
+#EXTINF:-1,EXP NATYRA
+https://bit.ly/3jjvQGp
+#EXTINF:-1,Klan Plus
+http://93.157.62.180/KlanPlus/index.m3u8
+#EXTINF:-1,Top Channel
+http://93.157.62.180/TopChannel/index.m3u8

@@ -35,15 +35,12 @@ http://185.226.88.3:1036/live/backup/backup/113.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://i.postimg.cc/cCx8Wg51/ABC.png" group-title="●★TV Kombëtare●★",ABC News 
 http://us.bestvideostreaming.is/10023/index.m3u8%20
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Muzikë●★",●★MUZIKË●★
 http://us.bestvideostreaming.is/87900.03/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://i.postimg.cc/d35ZVsz2/dasmatv.png" group-title="●★Muzikë●★",Dasma TV 
 http://us.bestvideostreaming.is/8793/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/Gtf3fHW5/TV-QIFTELI.png" group-title="●★Muzikë●★",TV Qifteli
 http://us.bestvideostreaming.is/8735/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Filma per femijë●★",●★PËR FEMIJË●★
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/706200
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/FRTdpFDY/BANGI.png" group-title="●★Filma per femijë●★",Bang Bang 
@@ -52,7 +49,6 @@ http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/7062
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4208
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/KYH43pzT/child-icon.png" group-title="●★Filma per femijë●★",Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Filma●★", ●★FILMA ●★
 http://us.bestvideostreaming.is/8740002/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/vZCp1WyB/AKSION.png" group-title="●★Filma●★", Film Aksion.HD
@@ -71,7 +67,6 @@ http://us.bestvideostreaming.is/8752/index.m3u8
 http://us.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/cCHcdbrb/T-HD.png" group-title="●★Filma●★",AL: T HD
 http://us.bestvideostreaming.is/8746/index.m3u8
-
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Feja Islame●★",●★TV ISLAME●★
 http://us.bestvideostreaming.is/8114714/index.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/tTZxDZmY/RTV-ISLAM.png" group-title="●★Feja Islame●★",Rtv Islam HD
@@ -80,7 +75,6 @@ http://us.bestvideostreaming.is/8714/index.m3u8
 http://us.bestvideostreaming.is/8786/index.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Peace TV" tvg-logo="https://i.postimg.cc/y6RRZRZG/PEACE-TV.png" group-title="●★Feja Islame●★",Peace TV HD
 http://us.bestvideostreaming.is/8792/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Dokumentare●★",★DOKUMENTARE★
 http://us.bestvideostreaming.is/8739/index.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/nV3k3Bzh/EXPLORER-Natyra.png" group-title="●★Dokumentare●★",Exp Natyra

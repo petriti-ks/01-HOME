@@ -52,9 +52,9 @@ http://us.bestvideostreaming.is/8735/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Filma per femijë●★",●★PËR FEMIJË●★
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/706200
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/FRTdpFDY/BANGI.png" group-title="●★Filma per femijë●★",Bang Bang 
-http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/7062
+https://bit.ly/3aBwqv3
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/vZG4J6k4/Cufo-TV.png" group-title="●★Filma per femijë●★",Cufo
-http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4208
+https://bit.ly/3pUXwnc
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/KYH43pzT/child-icon.png" group-title="●★Filma per femijë●★",Cocuk
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Filma●★", ●★FILMA ●★
@@ -141,36 +141,102 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 http://185.96.176.139:8080/superone/index.m3u8
 
 
-#EXTINF:-1,Tring Action
-http://tring.mediazonehd.com:8880/tringactionsRQbXDJb9wacRvXLe2cz/video.m3u8
-#EXTINF:-1,Klan TV
-http://tring.mediazonehd.com:8880/klansRQbXDJb9wacRvXLe2cz/video.m3u8
-#EXTINF:-1,Vizion Plus
-http://tring.mediazonehd.com:8880/vizionplussRQbXDJb9wacRvXLe2cz/video.m3u8
-#EXTINF:-1,TOP CHANNEL
-https://bit.ly/2MwwCUz
-#EXTINF:-1,TOP CHANNEL
-https://bit.ly/3txq1tB
-#EXTINF:-1,ALSAT M
-https://bit.ly/2MVDzyi
-#EXTINF:-1,FILM AKSION HD
-https://bit.ly/36Ik7vF
-#EXTINF:-1,FILM HITS HD
-https://bit.ly/3tqJBrv
-#EXTINF:-1,FILM KOMEDI
-https://bit.ly/3rqdx4X
-#EXTINF:-1,EXP NATYRA
-https://bit.ly/3jjvQGp
-#EXTINF:-1,Klan Plus
-http://93.157.62.180/KlanPlus/index.m3u8
-#EXTINF:-1,Top Channel
-http://93.157.62.180/TopChannel/index.m3u8
-#NAME Stream Albanië (AL)
-#SERVICE 1:64:2b1:0:0:0:0:0:0:0:
-#DESCRIPTION Hoofdzenders
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8:RTSH 1
-#DESCRIPTION RTSH 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8:RTSH 2
-#DESCRIPTION RTSH 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8:RTSH 3
-#DESCRIPTION RTSH 3
+#EXTINF:-1,﻿DIGI SPORT 1 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlist.m3u8
+#EXTINF:-1,﻿DIGI SPORT 2 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlist.m3u8
+#EXTINF:-1,﻿DIGI SPORT 3 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlist.m3u8
+#EXTINF:-1,﻿DIGI SPORT 4 HD
+http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlist.m3u8
+#EXTINF:-1, "FILMA SHQIP ↓↓↓     (kryeziuTV)"
+https://samiu.gjirafa.com/api/media/gjvideo/yqqzt1/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Kolona"
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxg0/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Një tregim Prishtine"
+https://naimi.gjirafa.com/api/media/gjvideo/yqktkg/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Ballkoni"
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxgz/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Diamanti"
+https://samiu.gjirafa.com/api/media/gjvideo/yyt0zx/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Njëri nga ata"
+https://naimi.gjirafa.com/api/media/gjvideo/tkqtkk/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Të mjerët"
+https://naimi.gjirafa.com/api/media/gjvideo/tkkgqy/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Me mujt me bo e kishim bo"
+https://samiu.gjirafa.com/api/media/gjvideo/t0qxxt/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Zonjusha"
+https://naimi.gjirafa.com/api/media/gjvideo/t0qggz/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "E kuqja"
+https://naimi.gjirafa.com/api/media/gjvideo/tkzxqx/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Çlirimi"
+https://naimi.gjirafa.com/api/media/gjvideo/tkzxqz/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Krom"
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxgk/index720.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Cheers"
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxgg/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Ne të tre"
+https://naimi.gjirafa.com/api/media/gjvideo/tkzxqy/index1080.m3u8?e=krziutv.m3u8
+#EXTINF:-1,Film "Plisi"
+https://naimi.gjirafa.com/api/media/gjvideo/tkqztk/index720.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Përqafimi"
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxg1/index720.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Ferdonija"
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxqt/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Ballkoni"
+https://samiu.gjirafa.com/api/media/gjvideo/tkzxgz/index1080.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Tisa"
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzyx/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "E dashur Nita"
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzyq/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Memory"
+https://naimi.gjirafa.com/api/media/gjvideo/yqkykg/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Rojtari i Bjeshkëve"
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzyy/720/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Dasmat dhe Pampersat"
+https://naimi.gjirafa.com/api/media/gjvideo/yqkzyt/360/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Ndeshja e fundit"
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzy0/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "PIRLO"
+https://naimi.gjirafa.com/api/media/gjvideo/yq1xx0/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Më fal"
+https://naimi.gjirafa.com/api/media/gjvideo/yqk1kq/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "EHO"
+https://naimi.gjirafa.com/api/media/gjvideo/yqkyxg/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Nothing to Nobody
+https://samiu.gjirafa.com/api/media/gjvideo/yq1q0z/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Mali i Harrum
+https://samiu.gjirafa.com/api/media/gjvideo/yq10tt/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "EVIDENCE"
+https://samiu.gjirafa.com/api/media/gjvideo/y0xtz0/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Home Sweet Home
+https://samiu.gjirafa.com/api/media/gjvideo/y0xyg1/360/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Kaseta e Dasmës
+https://naimi.gjirafa.com/api/media/gjvideo/y0kkyt/720/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "TRE"
+https://samiu.gjirafa.com/api/media/gjvideo/y0xkyy/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Gardhi"
+https://naimi.gjirafa.com/api/media/gjvideo/yqkzxg/1080/index.m3u8?e=kryeziutv.m3u8
+#EXTINF:-1,Film "Zibidi"
+https://samiu.gjirafa.com/api/media/gjvideo/yqkzxq/1080/index.m3u8?e=kryeziutv.m3u8
+
+#EXTINF:-1,Tregim Popullor / TOKA
+https://f.top4top.io/m_1858wdudl2.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / Miqësia e mirë
+https://g.top4top.io/m_1854ijx6h1.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / Fjala e Bariut
+https://j.top4top.io/m_1858rs9s83.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim popullor / Kush e ka punën më të rëndë
+https://c.top4top.io/m_1858jxn0h4.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / Miqësia e mirë
+https://l.top4top.io/m_1858khylh1.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / Sherri i Grave
+https://d.top4top.io/m_18587h5pl2.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / Dhëndri i Shkretë
+https://f.top4top.io/m_18581ck203.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / Kush e Korit Burrin
+https://g.top4top.io/m_1858owjrg4.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / PER VETE E KE
+https://h.top4top.io/m_1858um1ec5.mp4?e=kryeziutv.m3u8
+#EXTINF:-1,Tregim Popullor / Rrena Vesi më i Keq
+https://i.top4top.io/m_1858n556q6.mp4?e=kryeziutv.m3u8

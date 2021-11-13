@@ -11,6 +11,8 @@ http://us.bestvideostreaming.is/8804/index.m3u8
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/sxNC25xV/1.png" group-title="●★TV Kombëtare●★",Top Channel  HD
 http://93.157.62.180/TopChannel/index.m3u8
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/sxNC25xV/1.png" group-title="●★TV Kombëtare●★",Top Channel  3D
+https://bit.ly/3txq1tB
 #EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://i.postimg.cc/MK1YqVTx/TOP-NEWS.png" group-title="●★TV Kombëtare●★",Top News 
 http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/KYDz8s2x/rtk1al.png" group-title="●★TV Kombëtare●★",RTK 1 
@@ -57,8 +59,10 @@ http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/4208
 http://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Filma●★", ●★FILMA ●★
 http://us.bestvideostreaming.is/8740002/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/vZCp1WyB/AKSION.png" group-title="●★Filma●★", Film Aksion.HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/vZCp1WyB/AKSION.png" group-title="●★Filma●★", Film Aksion
 http://us.bestvideostreaming.is/8742/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Aksion HD" tvg-logo="https://i.postimg.cc/vZCp1WyB/AKSION.png" group-title="●★Filma●★", Film AksionHD
+https://bit.ly/36Ik7vF
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Thriller HD" tvg-logo="https://i.postimg.cc/90Vv1Vgq/Film-Thriller.png" group-title="●★Filma●★",Film Thriller HD
 http://us.bestvideostreaming.is/8757/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Një HD" tvg-logo="https://i.postimg.cc/XvCmbXTC/Film-Nje-HD.png" group-title="●★Filma●★",Film Një HD
@@ -161,3 +165,12 @@ https://bit.ly/3jjvQGp
 http://93.157.62.180/KlanPlus/index.m3u8
 #EXTINF:-1,Top Channel
 http://93.157.62.180/TopChannel/index.m3u8
+#NAME Stream Albanië (AL)
+#SERVICE 1:64:2b1:0:0:0:0:0:0:0:
+#DESCRIPTION Hoofdzenders
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_1mob_pp2/playlist.m3u8:RTSH 1
+#DESCRIPTION RTSH 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8:RTSH 2
+#DESCRIPTION RTSH 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tvlive.rtsh.dev/live/rtsh3ottp2/playlist.m3u8:RTSH 3
+#DESCRIPTION RTSH 3

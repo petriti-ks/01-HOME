@@ -88,7 +88,7 @@ http://us.bestvideostreaming.is/8792/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Dokumentare●★",★DOKUMENTARE★
 http://us.bestvideostreaming.is/8739/index.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/nV3k3Bzh/EXPLORER-Natyra.png" group-title="●★Dokumentare●★",Exp Natyra
-http://us.bestvideostreaming.is/8739/index.m3u8%20
+https://bit.ly/3jjvQGp
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/SKb7nGZD/EXPLORER-Shkence.png" group-title="●★Dokumentare●★",Exp Shkencë
 http://us.bestvideostreaming.is/8726/index.m3u8%20
 #EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/D0019pZy/histori.png" group-title="●★Dokumentare●★",Exp Histori
@@ -149,7 +149,7 @@ http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlist.m3u8
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport3hdb.stream/playlist.m3u8
 #EXTINF:-1,﻿DIGI SPORT 4 HD
 http://d-e-02.cdn.rdsnet.ro/DVR/digisport4hdb.stream/playlist.m3u8
-#EXTINF:-1, "FILMA SHQIP ↓↓↓     (kryeziuTV)"
+#EXTINF:-1, "FILMA SHQIP ↓↓↓     (Petriti TV)"
 https://samiu.gjirafa.com/api/media/gjvideo/yqqzt1/1080/index.m3u8?e=kryeziutv.m3u8
 #EXTINF:-1,Film "Kolona"
 https://samiu.gjirafa.com/api/media/gjvideo/tkzxg0/index1080.m3u8?e=kryeziutv.m3u8
@@ -213,30 +213,4 @@ https://samiu.gjirafa.com/api/media/gjvideo/y0xtz0/1080/index.m3u8?e=kryeziutv.m
 https://samiu.gjirafa.com/api/media/gjvideo/y0xyg1/360/index.m3u8?e=kryeziutv.m3u8
 #EXTINF:-1,Film "Kaseta e Dasmës
 https://naimi.gjirafa.com/api/media/gjvideo/y0kkyt/720/index.m3u8?e=kryeziutv.m3u8
-#EXTINF:-1,Film "TRE"
-https://samiu.gjirafa.com/api/media/gjvideo/y0xkyy/1080/index.m3u8?e=kryeziutv.m3u8
-#EXTINF:-1,Film "Gardhi"
-https://naimi.gjirafa.com/api/media/gjvideo/yqkzxg/1080/index.m3u8?e=kryeziutv.m3u8
-#EXTINF:-1,Film "Zibidi"
-https://samiu.gjirafa.com/api/media/gjvideo/yqkzxq/1080/index.m3u8?e=kryeziutv.m3u8
 
-#EXTINF:-1,Tregim Popullor / TOKA
-https://f.top4top.io/m_1858wdudl2.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / Miqësia e mirë
-https://g.top4top.io/m_1854ijx6h1.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / Fjala e Bariut
-https://j.top4top.io/m_1858rs9s83.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim popullor / Kush e ka punën më të rëndë
-https://c.top4top.io/m_1858jxn0h4.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / Miqësia e mirë
-https://l.top4top.io/m_1858khylh1.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / Sherri i Grave
-https://d.top4top.io/m_18587h5pl2.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / Dhëndri i Shkretë
-https://f.top4top.io/m_18581ck203.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / Kush e Korit Burrin
-https://g.top4top.io/m_1858owjrg4.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / PER VETE E KE
-https://h.top4top.io/m_1858um1ec5.mp4?e=kryeziutv.m3u8
-#EXTINF:-1,Tregim Popullor / Rrena Vesi më i Keq
-https://i.top4top.io/m_1858n556q6.mp4?e=kryeziutv.m3u8

@@ -10,39 +10,39 @@ http://us.bestvideostreaming.is/8803/index.m3u8
 http://us.bestvideostreaming.is/8804/index.m3u8
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/sxNC25xV/1.png" group-title="●★TV Kombëtare●★",Top Channel 
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
-#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://picon-13398.kxcdn.com/topchannel.jpg" group-title="●★TV Kombëtare●★",Top Channel  HD
+#EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/sxNC25xV/1.png" group-title="●★TV Kombëtare●★",Top Channel  HD
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/131.ts?checkedby:ahlakid.com
-#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://picon-13398.kxcdn.com/topnews.jpg" group-title="●★TV Kombëtare●★",Top News 
+#EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://i.postimg.cc/MK1YqVTx/TOP-NEWS.png" group-title="●★TV Kombëtare●★",Top News 
 http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/KYDz8s2x/rtk1al.png" group-title="●★TV Kombëtare●★",RTK 1 HD
 http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://picon-13398.kxcdn.com/rtv21al.jpg" group-title="●★TV Kombëtare●★",RTV 21
+#EXTINF:-1 tvg-id="" tvg-name="RTV 21 FHD AL" tvg-logo="https://i.postimg.cc/FRcY3bwH/RTV21.png" group-title="●★TV Kombëtare●★",RTV 21
 http://us.bestvideostreaming.is/8748/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://picon-13398.kxcdn.com/ktvkohavision.jpg" group-title="●★TV Kombëtare●★",KTV Kohavision 
+#EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://i.postimg.cc/2SV8nFZN/KTV.png" group-title="●★TV Kombëtare●★",KTV Kohavision 
 http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klankosova.jpg" group-title="●★TV Kombëtare●★",Klan Kosova
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://i.postimg.cc/26fkpsXC/klankosova.png" group-title="●★TV Kombëtare●★",Klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://picon-13398.kxcdn.com/klanhd.jpg" group-title="●★TV Kombëtare●★",Klan HD 
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://i.postimg.cc/2SsmhpYn/KLAN.png" group-title="●★TV Kombëtare●★",Klan HD 
 http://us.bestvideostreaming.is/8704/index.m3u8
-#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/klanplusal.jpg" group-title="●★TV Kombëtare●★",Klan Plus 
+#EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://i.postimg.cc/fy8D9JWb/KLAN-PLUS.png" group-title="●★TV Kombëtare●★",Klan Plus 
 http://us.bestvideostreaming.is/8720/index.m3u8
-#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://picon-13398.kxcdn.com/vizionplus.jpg" group-title="●★TV Kombëtare●★",Vizion Plus 
+#EXTINF:-1 tvg-id="VizionPlus.al" tvg-name="Vizion Plus HD AL" tvg-logo="https://i.postimg.cc/G2rCgkH2/vizionplus.png" group-title="●★TV Kombëtare●★",Vizion Plus 
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
-#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://picon-13398.kxcdn.com/rtshshqipal.jpg" group-title="●★TV Kombëtare●★",RTSH 
+#EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://i.postimg.cc/bYmhLS8y/rtshshqipal.png" group-title="●★TV Kombëtare●★",RTSH 
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://picon-13398.kxcdn.com/oranews.jpg" group-title="●★TV Kombëtare●★",Ora News 
+#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://i.postimg.cc/tgd06Y2H/oranews.png" group-title="●★TV Kombëtare●★",Ora News 
 http://185.226.88.3:1036/live/backup/backup/113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://picon-13398.kxcdn.com/news24.jpg" group-title="●★TV Kombëtare●★",News 24 
+#EXTINF:-1 tvg-id="" tvg-name="News 24 HD AL" tvg-logo="https://i.postimg.cc/3R3sFYc0/news24.png" group-title="●★TV Kombëtare●★",News 24 
 http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://picon-13398.kxcdn.com/abcnews.jpg" group-title="●★TV Kombëtare●★",ABC News 
+#EXTINF:-1 tvg-id="" tvg-name="ABC News AL" tvg-logo="https://i.postimg.cc/J02S8J4j/ABC.png" group-title="●★TV Kombëtare●★",ABC News 
 http://us.bestvideostreaming.is/10023/index.m3u8%20
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Muzikë●★",●★MUZIKË●★
 http://us.bestvideostreaming.is/87900.03/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://picon-13398.kxcdn.com/dasmatv.jpg" group-title="●★Muzikë●★",Dasma TV 
+#EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://i.postimg.cc/pX331DSH/dasmatv.png" group-title="●★Muzikë●★",Dasma TV 
 http://us.bestvideostreaming.is/8793/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/MGvqB3RN/TV-QIFTELI.png" group-title="●★Muzikë●★",TV Qifteli
+#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/0Q54JZzp/TV-QIFTELI.png" group-title="●★Muzikë●★",TV Qifteli
 http://us.bestvideostreaming.is/8735/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/rFP6kGRs/TV-PETRITI.png" group-title="●★Filma per femijë●★",●★PËR FEMIJË●★

@@ -98,7 +98,7 @@ http://93.157.62.180/Supersport2/index.m3u8
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/VLmZdmV3/supersport3hd.png" group-title="●★SPORT HD●★",SuperSport 3 
 http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/VLmZdmV3/supersport3hd.png" group-title="●★SPORT HD●★",SuperSport 3 HD 
-http://93.157.62.180/Supersport2/index.m3u8
+http://93.157.62.180/Supersport3/index.m3u8
 #EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://i.postimg.cc/vTMhgt3W/supersport4hd.png" group-title="●★SPORT HD●★",SuperSport 4 HD 
 http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://i.postimg.cc/Hnp0sskz/supersport5hd.png" group-title="●★SPORT HD●★",SuperSport 5 HD

@@ -35,7 +35,7 @@ http://us.bestvideostreaming.is/8720/index.m3u8
 http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/111.ts
 #EXTINF:-1 tvg-id="" tvg-name="RTSH Shqip AL" tvg-logo="https://i.postimg.cc/tCxSmTnn/RTSH.png" group-title="●★TV Kombëtare●★",RTSH 
 http://79.106.48.2:4578/live/rtsh_sat_mob_p1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://i.postimg.cc/W3zSmbP3/ARTA.png" group-title="●★TV Kombëtare●★",Arta News
+#EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://i.postimg.cc/1X3xqN9j/ARTA.png" group-title="●★TV Kombëtare●★",Arta News
 http://93.157.62.180/TVArta/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Ora News AL" tvg-logo="https://i.postimg.cc/sgzkYSHg/ORA.png" group-title="●★TV Kombëtare●★",Ora News 
 http://185.226.88.3:1036/live/backup/backup/113.m3u8

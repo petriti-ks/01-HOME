@@ -75,7 +75,7 @@ http://us.bestvideostreaming.is/8746/index.m3u8
 http://us.bestvideostreaming.is/8730/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AL: Film Dy HD" tvg-logo="https://i.postimg.cc/cC2s1Hd8/DY.png" group-title="●★Filma●★", Film Dy HD
 http://us.bestvideostreaming.is/8731/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="https://i.postimg.cc/bw3qd3Yh/EURO-FILM.png" group-title="●★Filma●★",Euro Film HD
+#EXTINF:-1 tvg-id="" tvg-name="AL: Film Hits HD" tvg-logo="https://i.postimg.cc/J4d8jKHc/EUROFILMI.png" group-title="●★Filma●★",Euro Film HD
 http://us.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/qB1fszVs/TV-PETRITI1.png" group-title="●★Feja Islame●★",●★TV ISLAME●★
 http://us.bestvideostreaming.is/8114714/index.m3u8
@@ -138,7 +138,7 @@ http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/Btfnc6Rf/SE.png" group-title="●★TV●★",6
 http://185.96.176.139:8080/superone/index.m3u8
 
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="FILMA SHQIP" tvg-logo="https://i.postimg.cc/yNLyNJbd/FILMA-SHQIP.png" group-title="",FILMA SHQIP
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="FILMA SHQIP" tvg-logo="https://i.postimg.cc/Y0dHnzn7/FILMA-SHQIPTAR.png" group-title="",FILMA SHQIP
 https://samiu.gjirafa.com/api/media/gjvideo/yqqzt1/1080/index.m3u8?e=kryeziutv.m3u8
 #EXTINF:-1,Film "Kolona"
 https://samiu.gjirafa.com/api/media/gjvideo/tkzxg0/index1080.m3u8?e=kryeziutv.m3u8

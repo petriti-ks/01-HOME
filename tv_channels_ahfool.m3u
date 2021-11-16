@@ -25,9 +25,9 @@ http://us.bestvideostreaming.is/8748/playlist.m3u8
 http://93.157.62.180/RTV21/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KTV Kohavision FHD AL" tvg-logo="https://i.postimg.cc/zfS42fMF/KTV.png" group-title="●★TV Kombëtare●★",KTV Kohavision 
 http://us.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="https://i.postimg.cc/pTs4x6P9/KLAN-KOSOVA.png" group-title="●★TV Kombëtare●★",Klan Kosova
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Klan Kosova FHD AL" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png" group-title="●★TV Kombëtare●★",Klan Kosova
 http://us.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://i.postimg.cc/MKMN25NT/KLAN.png" group-title="●★TV Kombëtare●★",Klan HD 
+#EXTINF:-1 tvg-id="KlanTV.al" tvg-name="Klan FHD AL" tvg-logo="https://i.postimg.cc/KjHHfHwC/Klan-Kosova2.png" group-title="●★TV Kombëtare●★",Klan HD 
 http://us.bestvideostreaming.is/8704/index.m3u8
 #EXTINF:-1 tvg-id="KlanPlus.al" tvg-name="Klan Plus HD AL" tvg-logo="https://i.postimg.cc/mg7nhDbW/KLAN-PLUS.png" group-title="●★TV Kombëtare●★",Klan Plus 
 http://us.bestvideostreaming.is/8720/index.m3u8

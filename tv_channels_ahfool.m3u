@@ -123,21 +123,6 @@ http://95.107.132.106/out/u/698_2.m3u8
 http://93.157.62.180/TringSport2HD/index.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/5t4jRXyx/TRING3.png" group-title="●★SPORT HD●★",Tring Sport 3 HD
 http://95.107.132.106/out/u/699_2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AL: T HD" tvg-logo="https://i.postimg.cc/pLbcY31w/TV.png" group-title="●★TV●★",★TV-1★
-http://us.bestvideostreaming.is/8739/index.m3u8%2001
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/pLbcY31w/TV.png" group-title="●★TV●★",1
-http://185.226.88.3:1036/live/backup/backup/7.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/pLbcY31w/TV.png" group-title="●★TV●★",2
-http://185.226.88.3:1036/live/backup/backup/8.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/pLbcY31w/TV.png" group-title="●★TV●★",3
-http://185.226.88.3:1036/live/backup/backup/9.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/pLbcY31w/TV.png" group-title="●★TV●★",4
-https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/pLbcY31w/TV.png" group-title="●★TV●★",5
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
-#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/pLbcY31w/TV.png" group-title="●★TV●★",6
-http://185.96.176.139:8080/superone/index.m3u8
-
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="FILMA SHQIP" tvg-logo="https://i.postimg.cc/kG7YPSW7/FILMA-SHQIP.png" group-title="",FILMA SHQIP
 https://samiu.gjirafa.com/api/media/gjvideo/yqqzt1/1080/index.m3u8?e=kryeziutv.m3u8
 #EXTINF:-1,Film "Kolona"

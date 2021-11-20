@@ -4,9 +4,11 @@ http://opplex.tv:8080/345/345/20177900
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR📺👌
 https://d.top4top.io/m_2147ps6050.mp4
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 HD 
-http://us.bestvideostreaming.is/8803/index.m3u8
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30416
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 HD 
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30417
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 HD 
-http://us.bestvideostreaming.is/8804/index.m3u8
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30418
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel 
 http://us.bestvideostreaming.is/8708/index.m3u8?token=264HkeoRJ0Ypc53GZDML1g
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel  HD

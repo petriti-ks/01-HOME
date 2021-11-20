@@ -95,28 +95,20 @@ http://us.bestvideostreaming.is/8729/index.m3u8%20
 http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/Nf03Fk8r/RTSH1.png" group-title="●★SPORT HD●★",RTSH Sport1 HD
 http://93.157.62.180/RTSHSport/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/HsKDcvt7/SPORT1.png" group-title="●★SPORT HD●★",SuperSport 1 
-http://93.157.62.180/Supersport1/tracks-v1a1/mono.m3u8?SBN
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/HsKDcvt7/SPORT1.png" group-title="●★SPORT HD●★",SuperSport 1 HD
-http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://i.postimg.cc/YCMFKRJT/SPORT2.png" group-title="●★SPORT HD●★",SuperSport 2 
-http://93.157.62.180/Supersport2/tracks-v1a1/mono.m3u8?SBN
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30630
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://i.postimg.cc/YCMFKRJT/SPORT2.png" group-title="●★SPORT HD●★",SuperSport 2 HD 
-http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/tCX6820w/SPORT3.png" group-title="●★SPORT HD●★",SuperSport 3 
-http://93.157.62.180/Supersport3/tracks-v1a1/mono.m3u8?SBN
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30631
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/tCX6820w/SPORT3.png" group-title="●★SPORT HD●★",SuperSport 3 HD 
-http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://i.postimg.cc/3wWV1XJD/SPORT4.png" group-title="●★SPORT HD●★",SuperSport 4 
-http://93.157.62.180/Supersport4/tracks-v1a1/mono.m3u8?SBN
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30632
 #EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://i.postimg.cc/3wWV1XJD/SPORT4.png" group-title="●★SPORT HD●★",SuperSport 4 HD 
-http://93.157.62.180/Supersport4/index.m3u8
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30633
 #EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://i.postimg.cc/50QthQpX/SPORT5.png" group-title="●★SPORT HD●★",SuperSport 5 HD
-http://93.157.62.180/Supersport5/tracks-v1a1/mono.m3u8?SBN
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30556
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="●★SPORT HD●★",Tring Sport 1 
 http://95.107.132.106/out/u/683_2.m3u8
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="●★SPORT HD●★",Tring Sport 1 HD
-http://93.157.62.180/TringSport1HD/index.m3u8
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30622
 #EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://i.postimg.cc/1zjdg8Sc/TRING2.png" group-title="●★SPORT HD●★",Tring Sport 2 
 http://95.107.132.106/out/u/698_2.m3u8
 #EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://i.postimg.cc/1zjdg8Sc/TRING2.png" group-title="●★SPORT HD●★",Tring Sport 2 HD 

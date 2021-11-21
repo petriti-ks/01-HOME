@@ -267,3 +267,42 @@ http://opplex.tv:8080/noni22/noni22/201854
 http://opplex.tv:8080/noni22/noni22/201855
 #EXTINF:-1 tvg-id="" tvg-name="ALB: Netflix Bud Spencer & Terence Hill" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/MovieChannel.png" group-title="ALBANIA",Netflix Komedi
 http://opplex.tv:8080/noni22/noni22/201856
+
+
+
+#EXTINF:-1 tvg-id="film.thriller.al" tvg-name="AL180:Filma24 SCI-Fi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL180FilmThrillerHD.png" group-title="Albania",AL180:Filma24 SCI-Fi
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30454
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL112:KS Filma24 Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL112RTSHMUZIKEHD.png" group-title="Albania",AL112:KS Filma24 Family
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30522
+
+
+#EXTINF:-1 tvg-id="film.dy.al" tvg-name="AL135:Filma24 Animacion" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL135FilmDyHD.png" group-title="Albania",AL135:Filma24 Animacion
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30499
+
+
+
+#EXTINF:-1 tvg-id="film.drame.al" tvg-name="AL169:Filma24 Aziatika" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL169FilmDrame.png" group-title="Albania",AL169:Filma24 Aziatika
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30465
+
+
+#EXTINF:-1 tvg-id="film.dy.al" tvg-name="AL170:Filma24 Western" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL170FilmDyHD.png" group-title="Albania",AL170:Filma24 Western
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30464
+
+#EXTINF:-1 tvg-id="" tvg-name="AL233:KS Filma24 Western" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL233HistoriHD.png" group-title="Albania",AL233:KS Filma24 Western
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30401
+
+
+
+
+#EXTINF:-1 tvg-id="film.hits.al" tvg-name="AL175:Filma24 Hindi" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL175FilmHitsHD.png" group-title="Albania",AL175:Filma24 Hindi
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30459
+
+
+
+#EXTINF:-1 tvg-id="supersport.6.al" tvg-name="AL325:KS Filma24 Aziatika" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AL/AL325SuperSport6FHD.png" group-title="Albania",AL325:KS Filma24 Aziatika
+http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30309
+
+
+

@@ -174,6 +174,22 @@ http://85.203.33.88:80/K44sb6H233/qcnfEh5073/3184
 http://85.203.33.88:80/K44sb6H233/qcnfEh5073/3185
 
 
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/HsKDcvt7/SPORT1.png" group-title="●★SPORT HD●★",SuperSport 1 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts
+#EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://i.postimg.cc/YCMFKRJT/SPORT2.png" group-title="●★SPORT HD●★",SuperSport 2 HD 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts
+#EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/tCX6820w/SPORT3.png" group-title="●★SPORT HD●★",SuperSport 3 HD 
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/MpQrQHp4/TRING-SPORT-NEWS.png" group-title="●★SPORT HD●★",Tring Sport News
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/65.ts
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="●★SPORT HD●★",Tring Sport 1 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/63.ts
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-name="Tring Sport 2 FHD AL" tvg-logo="https://i.postimg.cc/1zjdg8Sc/TRING2.png" group-title="●★SPORT HD●★",Tring Sport 2 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/62.tS
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/Wb5wpQT0/TRING3.png" group-title="●★SPORT HD●★",Tring Sport 3 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/61.ts
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Tring Sport 3 HD AL" tvg-logo="https://i.postimg.cc/3Nh3PVbr/TRING4.png" group-title="●★SPORT HD●★",Tring Sport 4 HD
+http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/60.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="AL EUROSPORT 1 FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/f1cecaaf5d587858aabdde39a3a50e15.png" group-title="●★SPORT HD●★",AL EUROSPORT 1 FHD
 http://jessicatv.site:8080/15247/6bc4e63e/273613

@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="●★TV Kombëtare●★",●★TV Kombëtare●★
-http://212.224.98.204:2200/ALB-EX/Top_Channel_HD_AL-alb/tracks-v1a1/2021/11/28/23/14/35-05600.ts?token=RED_fN7uXk7Spe-dH_mfHf9_gA%3D%3D%2C1631797961.7609871579
+http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR📺👌
 https://i.top4top.io/m_2111zgb5t0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 HD

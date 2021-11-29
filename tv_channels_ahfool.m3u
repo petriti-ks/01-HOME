@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/xk/tvim.tv.epg.xml"
 #EXTINF:-1 tvg-id="" tvg-name="▬ Albania [AL] ▬" tvg-logo="https://i.postimg.cc/ZqJMNWdQ/00.png" group-title="●★TV Kombëtare●★",●★TV Kombëtare●★
 http://212.224.98.207:2200/NL/sporttv2-por/tracks-v1a1/mono.m3u8?token=
-#EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",TOPI I ARTE
-https://jqffpmmsrepwpnpe.wzcdn988.net:8443/hls/c2kxuno.m3u8?s=AyhvKCeaZIIhGfGhNTjKjQ&e=1638236119
 #EXTINF:-1 tvg-id="" tvg-name="Melody TV AL" tvg-logo="https://i.postimg.cc/26hkPg4R/info-1.jpg" group-title="●★TV Kombëtare●★",INFO KABLLOR📺👌
 https://i.top4top.io/m_2111zgb5t0.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AL217:Big Brother 1" tvg-logo="https://i.postimg.cc/wjfknGVB/BIGBROTHER-1.jpg" group-title="●★TV Kombëtare●★",Big Brother 1 HD
-http://mue03.wanicelife.com:8880/TITI/Shqip.Vetum/30417
+http://2.ledi-iptv.ch:2235/JT3HEQazBk/XenAPshjrv/30065
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 HD
+http://2.ledi-iptv.ch:2235/JT3HEQazBk/XenAPshjrv/30066
+#EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 
 http://jessicatv.site:8080/15247/6bc4e63e/282051
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel  HD
 http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15681

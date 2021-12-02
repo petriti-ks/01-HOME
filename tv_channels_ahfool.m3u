@@ -137,30 +137,37 @@ http://cloudcdn.tk:80/ZasSRFC9atSs224/Nmoyo371/898661
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/Nf03Fk8r/RTSH1.png" group-title="●★SPORT HD●★",RTSH Sport1 HD
 http://93.157.62.180/RTSHSport/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/HsKDcvt7/SPORT1.png" group-title="●★SPORT HD●★",SuperSport 1 FHD
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/4729
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118041
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport 1 HD AL" tvg-logo="https://i.postimg.cc/HsKDcvt7/SPORT1.png" group-title="●★SPORT HD●★",SuperSport 1 HD
 http://jessicatv.site:8080/15247/6bc4e63e/1316
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://i.postimg.cc/YCMFKRJT/SPORT2.png" group-title="●★SPORT HD●★",SuperSport 2 FHD 
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/4728
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118057
 #EXTINF:-1 tvg-id="SuperSport2.al" tvg-name="SuperSport 2 HD AL" tvg-logo="https://i.postimg.cc/YCMFKRJT/SPORT2.png" group-title="●★SPORT HD●★",SuperSport 2 HD 
 http://jessicatv.site:8080/15247/6bc4e63e/1312
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/tCX6820w/SPORT3.png" group-title="●★SPORT HD●★",SuperSport 3 FHD 
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/625241
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118058
 #EXTINF:-1 tvg-id="SuperSport3.al" tvg-name="SuperSport 3 FHD AL" tvg-logo="https://i.postimg.cc/tCX6820w/SPORT3.png" group-title="●★SPORT HD●★",SuperSport 3 HD 
 http://jessicatv.site:8080/15247/6bc4e63e/1319
 #EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://i.postimg.cc/3wWV1XJD/SPORT4.png" group-title="●★SPORT HD●★",SuperSport 4 FHD 
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/625240
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118059
 #EXTINF:-1 tvg-id="SuperSport4.al" tvg-name="SuperSport 4 FHD AL" tvg-logo="https://i.postimg.cc/3wWV1XJD/SPORT4.png" group-title="●★SPORT HD●★",SuperSport 4 HD 
 http://jessicatv.site:8080/15247/6bc4e63e/1318
 #EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://i.postimg.cc/50QthQpX/SPORT5.png" group-title="●★SPORT HD●★",SuperSport 5 FHD
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/4725
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118060
 #EXTINF:-1 tvg-id="SuperSport5.al" tvg-name="SuperSport 5 HD AL" tvg-logo="https://i.postimg.cc/50QthQpX/SPORT5.png" group-title="●★SPORT HD●★",SuperSport 5 HD
 http://jessicatv.site:8080/15247/6bc4e63e/1860
 
-
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260897
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 2 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260896
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 3 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260895
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 4 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260894
 
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="●★SPORT HD●★",Tring Sport 1 FHD
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/21615
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118110
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="●★SPORT HD●★",Tring Sport 1 
 http://95.107.132.106/out/u/683_2.m3u8
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="●★SPORT HD●★",Tring Sport 1.

@@ -10,13 +10,13 @@ http://line.thesmartiptv.com:900/4773C858/4C98AA45/400251955
 #EXTINF:-1 tvg-id="TringComedy.al" tvg-name="Top Channel FHD AL" tvg-logo="https://i.postimg.cc/fyfcC2yD/BIGBROTHER-2.jpg" group-title="●★TV Kombëtare●★",Big Brother 2 
 http://jessicatv.site:8080/15247/6bc4e63e/282051
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel  FHD
-http://www.mytv.fun:8080/KayBanjo/0iaivrwwn/4856
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/360050
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel  HD
 http://xt.bossna-caffe.com:25461/@lens@k@25819/39bYksQkUg/15681
 #EXTINF:-1 tvg-id="TopChannel.al" tvg-name="Top Channel (Backup) AL" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channel  
 http://jessicatv.site:8080/15247/6bc4e63e/1311
 #EXTINF:-1 tvg-id="" tvg-name="AL: Top Channal  FHD 4K" tvg-logo="https://i.postimg.cc/d3jx3L36/Top-Channel.png" group-title="●★TV Kombëtare●★",Top Channal 4K
-http://2.ledi-iptv.ch:2235/JT3HEQazBk/XenAPshjrv/13
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/118088
 #EXTINF:-1 tvg-id="" tvg-name="Top News AL" tvg-logo="https://i.postimg.cc/m2MQQ0Sx/TOP-NEWS.png" group-title="●★TV Kombëtare●★",Top News 
 http://93.157.62.180/TopNews/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RTK 1 FHD AL" tvg-logo="https://i.postimg.cc/ZR2dNcBK/RTK-1.png" group-title="●★TV Kombëtare●★",RTK 1 
@@ -117,6 +117,28 @@ http://jessicatv.site:8080/15247/6bc4e63e/264854
 http://jessicatv.site:8080/15247/6bc4e63e/247864
 #EXTINF:-1 tvg-id="" tvg-name="AL: Tele One Gold Collection HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2baa1f68946f7ea2a1160bcc1470504f.png" group-title="●★Filma●★", Tele One Gold Collection HD
 http://jessicatv.site:8080/15247/6bc4e63e/247862
+#EXTINF:-1 tvg-id="" tvg-name="AL| KARATE HD" tvg-logo="" group-title="●★Filma●★",AL| KARATE HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261815
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX AKSION HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX AKSION HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148512
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX FANTAZI HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX FANTAZI HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148511
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX HORROR HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX HORROR HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148509
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX EPIK HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX EPIK HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148505
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX SPIDER-MAN FHD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX SPIDER-MAN FHD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148503
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX JACKIE CHAN HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX JACKIE CHAN HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148502
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX VAN DAMME HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX VAN DAMME HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148501
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX SYLVESTER STALLONE HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX SYLVESTER STALLONE HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148499
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148498
+
+
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/mkPC02hm/TV-ISLAME.png" group-title="●★Feja Islame●★",●★TV ISLAME●★🤗
 http://us.bestvideostreaming.is/8114714/index.m3u8
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/G3jjV0yk/ISLAM.png" group-title="●★Feja Islame●★",Rtv Islam HD
@@ -160,14 +182,20 @@ http://jessicatv.site:8080/15247/6bc4e63e/1860
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/118045
 #EXTINF:-1 tvg-id="supersportkosova2.al" tvg-name="AL| SUPER SPORT KOSOVA 2 HD" tvg-logo="https://lo1.in/ALBANIA/SuperSportKosova2.png" group-title="●★SPORT HD●★",SUPER SPORT KOSOVA 2 HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/118046
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 1 HD" tvg-logo="" group-title="●★SPORT HD●★",AL| OVERSPORT 1 HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260897
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 2 HD" tvg-logo="" group-title="●★SPORT HD●★",AL| OVERSPORT 2 HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260896
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 3 HD" tvg-logo="" group-title="●★SPORT HD●★",AL| OVERSPORT 3 HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260895
-#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="" group-title="EU | ALBANIA SPORTS",AL| OVERSPORT 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="AL| OVERSPORT 4 HD" tvg-logo="" group-title="●★SPORT HD●★",AL| OVERSPORT 4 HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/400260894
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="AR| BEIN SPORTS ENGLISH 1 HEVC" tvg-logo="https://lo1.in/mega/BS/BS1english.png" group-title="●★SPORT HD●★",AR| BEIN SPORTS ENGLISH 1 HEVC
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/54
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="AR| BEIN SPORTS ENGLISH 2 HEV" tvg-logo="https://lo1.in/mega/BS/BS2english.png" group-title="●★SPORT HD●★",AR| BEIN SPORTS ENGLISH 2 HEV
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/55
+#EXTINF:-1 tvg-id="beinsports3en.qa" tvg-name="AR| BEIN SPORTS ENGLISH 3 HEVC" tvg-logo="https://lo1.in/mega/BS/BS3english.png" group-title="●★SPORT HD●★",AR| BEIN SPORTS ENGLISH 3 HEVC
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/56
 
 #EXTINF:-1 tvg-id="TringSport1.al" tvg-name="Tring Sport 1 FHD AL" tvg-logo="https://i.postimg.cc/PqshCVM5/TRING1.png" group-title="●★SPORT HD●★",Tring Sport 1 FHD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/118110

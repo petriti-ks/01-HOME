@@ -50,27 +50,24 @@ http://jessicatv.site:8080/15247/6bc4e63e/2551
 #EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://i.postimg.cc/65wBjbSv/MUZIKE.png" group-title="●★Muzikë●★",●★MUZIKË●★🎵
 http://us.bestvideostreaming.is/87900.03/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dasma TV AL" tvg-logo="https://i.postimg.cc/htL1qHJ8/DASMA-TV.png" group-title="●★Muzikë●★",Dasma TV 
-http://85.203.33.88:80/K44sb6H233/qcnfEh5073/7076
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148370
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/SKnk8M4G/hits.png" group-title="●★Muzikë●★",Music Hits
-http://85.203.33.88:80/K44sb6H233/qcnfEh5073/22800
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148375
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/6q9PrkRN/top-estrada.png" group-title="●★Muzikë●★",TOP Estrada
-http://85.203.33.88:80/K44sb6H233/qcnfEh5073/12046
-#EXTINF:-1 tvg-id="" tvg-name="AL 8ova Music HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="●★Muzikë●★",8ova Music HD
-http://jessicatv.site:8080/15247/6bc4e63e/274720
-#EXTINF:-1 tvg-id="" tvg-name="AL: Alba Box Muzike HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="●★Muzikë●★",Alba Box Muzike HD
-http://jessicatv.site:8080/15247/6bc4e63e/281971
-#EXTINF:-1 tvg-id="" tvg-name="AL: Ashkali TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="●★Muzikë●★",Ashkali TV HD
-http://jessicatv.site:8080/15247/6bc4e63e/193769
-#EXTINF:-1 tvg-id="" tvg-name="AL: Flutra TV HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="●★Muzikë●★",Flutra TV HD
-http://jessicatv.site:8080/15247/6bc4e63e/280142
-#EXTINF:-1 tvg-id="" tvg-name="AL: Melody TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/94c4d86a383db413cd3b7fb0a53aaeb8.png" group-title="●★Muzikë●★", Melody TV HD
-http://jessicatv.site:8080/15247/6bc4e63e/41326
-#EXTINF:-1 tvg-id="" tvg-name="AL: MFM Music FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a0d688a0c1b50a2ea7c5b8cca2c39b9f.jpg" group-title="●★Muzikë●★" MFM Music HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148350
+#EXTINF:-1 tvg-id="" tvg-name="AL: MFM Music FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a0d688a0c1b50a2ea7c5b8cca2c39b9f.jpg" group-title="●★Muzikë●★",MFM Music HD
 http://jessicatv.site:8080/15247/6bc4e63e/45019
 #EXTINF:-1 tvg-id="" tvg-name="AL: TV Sharri FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/03bf7ee22afa23be577be153f1748038.png" group-title="●★Muzikë●★",TV Sharri HD
-http://jessicatv.site:8080/15247/6bc4e63e/12416
-#EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/B6rC3sCg/TV-QIFTELI.png" group-title="●★Muzikë●★",TV Qifteli
-http://85.203.33.88:80/K44sb6H233/qcnfEh5073/22802
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148349
+#EXTINF:-1 tvg-id="" tvg-name="AL 8ova Music HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Muzikë●★",TV Nora Demaj
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148294
+#EXTINF:-1 tvg-id="" tvg-name="AL: Alba Box Muzike HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Muzikë●★",Start Kosova
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261758
+#EXTINF:-1 tvg-id="" tvg-name="AL: Ashkali TV HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Muzikë●★",Ashkali TV HD
+http://jessicatv.site:8080/15247/6bc4e63e/193769
+#EXTINF:-1 tvg-id="" tvg-name="AL: Flutra TV HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Muzikë●★",Flutra TV HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261762
+
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/dVNv0s02/PER-FEMIJE.png" group-title="●★Filma per femijë●★",●★PËR FEMIJË●★👨‍👩‍👦
 http://tv.rapidiptv.tvip.xyz:80/RafaelBray/nOoJy313/706200
 #EXTINF:-1 tvg-id="" tvg-name="Folk + AL" tvg-logo="https://i.postimg.cc/3JB2S2z9/BANG-BANG.png" group-title="●★Filma per femijë●★",Bang Bang 
@@ -137,6 +134,39 @@ http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148501
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148499
 #EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Filma●★",AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD
 http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148498
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="AL| NETFLIX BUD SPENCER &AMP; TERENCE HILL HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Humor 
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400148498
+#EXTINF:-1 tvg-id="" tvg-name="AL| HUMOR 1 HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",HUMOR 1 HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261873
+#EXTINF:-1 tvg-id="" tvg-name="AL| HUMOR 2 HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Portokalli HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261872
+#EXTINF:-1 tvg-id="" tvg-name="AL| HUMOR 4 HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Humor HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261870
+#EXTINF:-1 tvg-id="" tvg-name="AL| HUMOR 5 HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",Cka ka Shpija HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261869
+#EXTINF:-1 tvg-id="" tvg-name="AL| PLEQENARËT HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",PLEQENARËT HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261860
+#EXTINF:-1 tvg-id="" tvg-name="AL| ZYHRA HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",ZYHRA HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261861
+#EXTINF:-1 tvg-id="" tvg-name="AL| QUMILI HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",QUMILI HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261862
+#EXTINF:-1 tvg-id="" tvg-name="AL| MINISTRIA E SHYHRETIT HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",MINISTRIA E SHYHRETIT HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261863
+#EXTINF:-1 tvg-id="" tvg-name="AL| KOMEDI KOSOVARE HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KOMEDI KOSOVARE HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261864
+#EXTINF:-1 tvg-id="" tvg-name="AL| KOMEDI SHQIPTARE HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",KOMEDI SHQIPTARE HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261865
+#EXTINF:-1 tvg-id="" tvg-name="AL| CIMA HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",CIMA HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261866
+#EXTINF:-1 tvg-id="" tvg-name="AL| SHENGEN VISA HD" tvg-logo="https://lo1.in/ALBANIA/ALBANIA.png" group-title="●★Humor●★",SHENGEN VISA HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261867
+#EXTINF:-1 tvg-id="" tvg-name="AL| STUPCAT EGJELI HD" tvg-logo=https://lo1.in/ALBANIA/ALBANIA.png"" group-title="●★Humor●★",STUPCAT EGJELI HD
+http://line.thesmartiptv.com:900/4773C858/4C98AA45/400261868
+
 
 
 #EXTINF:-1 tvg-id="TringSport3.al" tvg-name="Rtv Islam" tvg-logo="https://i.postimg.cc/mkPC02hm/TV-ISLAME.png" group-title="●★Feja Islame●★",●★TV ISLAME●★🤗
